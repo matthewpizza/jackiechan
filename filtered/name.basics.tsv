@@ -1,0 +1,617 @@
+nconst	primaryName	birthYear	deathYear	primaryProfession	knownForTitles
+nm0000131	John Cusack	1966	\N	actor,producer,writer	tt0119229,tt0098258,tt0146882,tt0450385
+nm0000163	Dustin Hoffman	1937	\N	actor,producer,soundtrack	tt0064665,tt0095953,tt0084805,tt0061722
+nm0000226	Will Smith	1968	\N	music_department,actor,producer	tt0480249,tt0098800,tt0119654,tt0120891
+nm0000247	John Woo	1946	\N	producer,director,writer	tt0104684,tt0119094,tt0092263,tt0425637
+nm0000329	Jackie Chan	1954	\N	actor,stunts,producer	tt0120812,tt0127357,tt0266915,tt0089374
+nm0000529	Debi Mazar	1964	\N	actress,make_up_department,producer	tt0387199,tt0140352,tt0112950,tt1674771
+nm0000586	Jada Pinkett Smith	1971	\N	actress,producer,writer	tt0234215,tt0242653,tt0369339,tt0351283
+nm0000602	Robert Redford	1936	\N	producer,actor,director	tt0087781,tt0081283,tt0074119,tt0064115
+nm0000676	Chris Tucker	1971	\N	actor,soundtrack,writer	tt0293564,tt0266915,tt1045658,tt0120812
+nm0000706	Michelle Yeoh	1962	\N	actress,producer,writer	tt0120347,tt1302011,tt3104988,tt0190332
+nm0000732	Danny Aiello	1933	\N	actor,producer,soundtrack	tt0102070,tt0093565,tt0097216,tt0110413
+nm0000870	Kathy Bates	1948	\N	actress,director,soundtrack	tt0101921,tt0100157,tt0120338,tt0109642
+nm0000980	Jim Broadbent	1949	\N	actor,writer,soundtrack	tt1431181,tt1007029,tt0217505,tt0203009
+nm0001041	Maggie Cheung	1964	\N	actress,soundtrack	tt0118694,tt0117905,tt0299977,tt0101258
+nm0001207	José Ferrer	1912	1992	actor,soundtrack,director	tt0044926,tt0042367,tt0087182,tt0049280
+nm0001231	Claire Forlani	1971	\N	actress,producer	tt0132347,tt0288045,tt0460780,tt0119643
+nm0001317	Renny Harlin	1959	\N	producer,director,writer	tt2238032,tt0099423,tt0106582,tt0149261
+nm0001349	Jennifer Love Hewitt	1979	\N	actress,producer,soundtrack	tt0130018,tt0119345,tt0125022,tt0290095
+nm0001401	Angelina Jolie	1975	\N	actress,producer,director	tt1243957,tt0824747,tt0172493,tt1587310
+nm0001472	Jet Li	1963	\N	actor,producer,miscellaneous	tt0342258,tt0165929,tt0267804,tt0446059
+nm0001696	Julian Sands	1958	\N	actor,assistant_director,soundtrack	tt0102511,tt0098622,tt0091867,tt0087553
+nm0001884	Max von Sydow	1929	\N	actor,soundtrack,director	tt0050976,tt0181689,tt0080745,tt0477302
+nm0002076	Jason Flemyng	1966	\N	actor,soundtrack,director	tt0970452,tt0421715,tt0120735,tt0311429
+nm0002397	Andrew Z. Davis	\N	\N	producer,production_manager,location_management	tt1637688,tt0120660,tt1053424,tt0120461
+nm0003703	Eric Strand	\N	\N	editor,editorial_department	tt0087262,tt0146316,tt0149261,tt0246578
+nm0004214	Bey Logan	1963	\N	producer,actor,writer	tt0288045,tt8180932,tt0865556,tt4327752
+nm0004778	Adrien Brody	1973	\N	actor,producer,writer	tt0253474,tt2278388,tt1605783,tt1683526
+nm0004854	Billy Ray Cyrus	1961	\N	actor,soundtrack,writer	tt0166924,tt1273678,tt0493093,tt1114677
+nm0004943	Warren G.	1970	\N	soundtrack,actor,composer	tt0109035,tt0112442,tt0208003,tt2294677
+nm0005033	Sammo Kam-Bo Hung	1952	\N	actor,stunts,producer	tt0163949,tt0085211,tt1220719,tt1386932
+nm0005042	Jason Isaacs	1963	\N	actor,producer,miscellaneous	tt0295297,tt0265086,tt0187393,tt0316396
+nm0005154	Lucy Liu	1968	\N	actress,director,producer	tt0160127,tt0299658,tt2191671,tt0266697
+nm0005520	Amber Valletta	1974	\N	actress,producer	tt1034032,tt0388482,tt0455760,tt0386588
+nm0005562	Owen Wilson	1968	\N	actor,producer,writer	tt1605783,tt0396269,tt0265666,tt0115734
+nm0006059	Stephen Endelman	1962	\N	composer,music_department,soundtrack	tt6653752,tt0763840,tt0352277,tt0115951
+nm0006254	J. Peter Robinson	1945	\N	composer,music_department,soundtrack	tt0412080,tt0111686,tt0105793,tt0094889
+nm0006277	Lalo Schifrin	1932	\N	music_department,composer,soundtrack	tt0266915,tt0117060,tt0120755,tt0120812
+nm0006322	Ken Thorne	1924	2014	music_department,composer,soundtrack	tt0081573,tt0086393,tt0060438,tt0141926
+nm0006534	Phil Hay	\N	\N	writer,producer,actor	tt1408253,tt7137380,tt0250224,tt2400463
+nm0007079	James Greer	1971	\N	writer,director,cinematographer	tt1273678,tt0273799,tt7153766,tt0397078
+nm0007139	Hark Tsui	1950	\N	producer,director,writer	tt1123373,tt3950078,tt1686784,tt0103285
+nm0008743	Jonathan Aibel	1969	\N	producer,writer,miscellaneous	tt1302011,tt2267968,tt0441773,tt0118375
+nm0013833	Ah-Lei Gua	1944	\N	actress,music_department	tt0107156,tt0114013,tt0206441,tt1205475
+nm0018726	Sandy Alexander	\N	\N	stunts,actor,writer	tt0114746,tt0300051,tt0091635,tt0212985
+nm0029400	Michael Angarano	1987	\N	actor,writer,director	tt0865556,tt2231253,tt0181875,tt0405325
+nm0035488	Fred Armisen	1966	\N	music_department,actor,writer	tt0357413,tt0072562,tt1645170,tt1780441
+nm0036663	Victor Arnold	1936	2012	actor,writer	tt0914387,tt0117958,tt0078718,tt0070672
+nm0041251	Sha-Fei Ouyang	1924	2010	actress	tt1168665,tt0186095,tt0888052,tt0192107
+nm0044951	Chris Babida	\N	\N	composer,music_department,soundtrack	tt0084941,tt0105844,tt0259744,tt0111770
+nm0045927	Bill Badalato	1940	\N	producer,production_manager,writer	tt0092099,tt0115759,tt0118583,tt0203019
+nm0046223	Sayed Badreya	1957	\N	actor,producer,miscellaneous	tt0960144,tt0808148,tt0371746,tt1800763
+nm0053388	Gary Barber	\N	\N	producer,executive	tt0245844,tt0427470,tt0217869,tt1046173
+nm0060311	Kevin Bassinson	\N	\N	music_department,composer,soundtrack	tt1267299,tt0089374,tt0214388,tt0097138
+nm0063769	Charlie Bean	\N	\N	animation_department,art_department,director	tt3014284,tt0289408,tt0278238,tt1812523
+nm0073026	David Benullo	\N	\N	assistant_director,writer,director	tt7625818,tt0327437,tt1562871,tt0462028
+nm0074184	Glenn Berger	1969	\N	producer,writer,miscellaneous	tt0441773,tt2267968,tt0118375,tt1302011
+nm0077080	Jonathan Bernstein	\N	\N	writer	tt1273678,tt0462395,tt0397078,tt7153766
+nm0083696	Roger Birnbaum	\N	\N	producer,production_manager,executive	tt0315327,tt1137450,tt0120812,tt2404435
+nm0085312	Jack Black	1969	\N	actor,producer,soundtrack	tt0457510,tt0332379,tt0360717,tt0146882
+nm0086840	Susanne Blakeslee	1956	\N	actress,music_department,soundtrack	tt1629701,tt0322968,tt0235918,tt1094581
+nm0101639	Frank Cottrell Boyce	1961	\N	writer,actor,producer	tt0423409,tt0366777,tt2058107,tt0345061
+nm0120180	S. Scott Bullock	1956	\N	actor,soundtrack	tt1852820,tt0244783,tt0429589,tt0414853
+nm0127478	Raquel Caballes Maxwell	\N	\N	producer,production_manager,miscellaneous	tt0114194,tt0218967,tt0110950,tt0117193
+nm0132709	Martin Campbell	1943	\N	director,producer,actor	tt0190865,tt0120746,tt0113189,tt0381061
+nm0134396	Hans Canosa	\N	\N	producer,director,editor	tt1330229,tt0206098,tt0435623,tt10643926
+nm0138620	Joe Carnahan	1969	\N	producer,writer,director	tt0475394,tt1601913,tt0272207,tt0429493
+nm0149942	Garry Chalk	1952	\N	actor,soundtrack,sound_department	tt0138959,tt0115108,tt0409459,tt0329101
+nm0150802	Benny Chan	\N	\N	director,producer,writer	tt2957774,tt0995739,tt0127357,tt1156506
+nm0150839	Chuan Chen	\N	\N	actor,stunts,director	tt0098315,tt1451391,tt0083886,tt0089374
+nm0150843	Chung Yuan Chen	\N	\N	cinematographer,camera_department,production_manager	tt0074747,tt0122238,tt3756900,tt0185421
+nm0150858	David Chan	\N	\N	producer,miscellaneous,production_manager	tt0100758,tt0103060,tt0108308,tt0213314
+nm0150894	Frankie Chan	1951	\N	composer,actor,director	tt0109424,tt0091140,tt0106409,tt0099713
+nm0150897	Fruit Chan	1959	\N	actor,director,producer	tt0123328,tt3504824,tt9076570,tt0255327
+nm0150906	Gordon Chan	1960	\N	writer,producer,director	tt0116312,tt0288045,tt0157366,tt0440003
+nm0150916	Hing-Ka Chan	\N	\N	writer,producer,director	tt0157366,tt0306651,tt0266703,tt1612142
+nm0150921	Hui Lou Chen	1929	\N	actor,stunts	tt1720187,tt0199949,tt0074513,tt2033273
+nm0150995	Wing-Chan Leung	\N	\N	editor,editorial_department,director	tt7630210,tt0182838,tt0202557,tt0111153
+nm0151013	Man Keung Chan	\N	\N	writer,actor,producer	tt0111767,tt0100144,tt0110930,tt0373074
+nm0151068	Philip Chan	1945	\N	actor,writer,director	tt0088107,tt0104684,tt0104558,tt0091940
+nm0151080	Sing Chen	1940	\N	actor,stunts	tt1165280,tt0101764,tt0066587,tt0083061
+nm0151113	Susan Chan	\N	\N	writer,actress	tt0477898,tt2008006,tt1196714,tt0127357
+nm0151125	Teddy Chan	\N	\N	actor,director,producer	tt2952602,tt0115693,tt0226693,tt1403130
+nm0151155	Michael Wai-Man Chan	1946	\N	actor,stunts,director	tt7559006,tt0079265,tt0076550,tt0083769
+nm0151162	Willie Chan	1941	2017	producer,miscellaneous,actor	tt0865556,tt0089374,tt0290095,tt0184894
+nm0151649	Peter Cheung	1945	\N	editor,actor,editorial_department	tt0068935,tt0089374,tt0127357,tt0113326
+nm0151714	Hai Chang	\N	\N	cinematographer,actor,camera_department	tt0080179,tt0079609,tt0081497,tt0076939
+nm0151793	Ping-Yu Chang	1926	2014	actress	tt4302792,tt0099886,tt0064451,tt1400376
+nm0151870	Jung-Shu Chen	1940	2005	cinematographer,camera_department,sound_department	tt1859500,tt0320109,tt2359069,tt0105845
+nm0152061	Winston Chao	1960	\N	actor	tt1071355,tt1772230,tt4779682,tt0107156
+nm0154235	Emil Chau	1960	\N	music_department,soundtrack,actor	tt0113326,tt0184526,tt0827972,tt0105869
+nm0155179	Chi-Hwa Chen	\N	\N	director,actor,miscellaneous	tt0202135,tt1219127,tt0089374,tt3756900
+nm0155184	Jeong-Nam Kim	\N	\N	actress,miscellaneous	tt0122038,tt3139942,tt0077277,tt0075905
+nm0155185	Ching-Chu Chen	1944	\N	cinematographer,camera_department	tt0068767,tt0074747,tt0081499,tt0067824
+nm0155219	Fang Chi Chen	\N	\N	composer	tt0076227,tt0080748
+nm0155411	Wen Ho Chen	\N	\N	production_manager,actor,producer	tt0121750,tt0087487,tt0121896,tt0186909
+nm0155449	Yung-Yu Chen	\N	\N	composer,music_department	tt0077559,tt0078243,tt0066587,tt0070800
+nm0155546	Carol 'Do Do' Cheng	1957	\N	actress	tt0096490,tt0085697,tt0101442,tt0099558
+nm0155572	Kang-Yeh Cheng	1948	\N	actor,assistant_director	tt0065450,tt0068310,tt0064067,tt0068803
+nm0155587	Kent Cheng	1951	\N	actor,director,producer	tt2888046,tt0108656,tt1386932,tt0089259
+nm0156432	Tung Cho 'Joe' Cheung	\N	\N	actor,director,writer	tt0080156,tt0105384,tt1900886,tt0068935
+nm0156434	Alfred Cheung	1955	\N	actor,writer,director	tt0101442,tt0085833,tt0288045,tt0271053
+nm0156451	Chi-Sing Cheung	\N	\N	writer,director,actor	tt0429078,tt0127360,tt0457049,tt0339831
+nm0156460	Chung-Kuei Chang	\N	\N	actor,stunts,assistant_director	tt0121546,tt0100584,tt2139819,tt0121452
+nm0156511	Lai Ling Cheung	\N	\N	writer,miscellaneous	tt0087679,tt0282264,tt0108656,tt0100980
+nm0156524	Man Po Cheung	\N	\N	cinematographer,camera_department,miscellaneous	tt0156998,tt0266703,tt1330525,tt0351887
+nm0156583	Tony Cheung	\N	\N	cinematographer,camera_department,director	tt1258972,tt0901488,tt0111512,tt2102472
+nm0156601	Yiu-Tsou Cheung	\N	\N	cinematographer,camera_department	tt0089374,tt0087578,tt0111512,tt0091431
+nm0156809	Mac Chew	\N	\N	composer,soundtrack	tt0104558
+nm0156906	Marco Mak	\N	\N	editor,director,editorial_department	tt0165499,tt0251433,tt0103285,tt0098147
+nm0156963	Hsing-Lung Chiang	1928	\N	editor,editorial_department	tt0077868,tt0057989,tt0205336,tt0057248
+nm0158883	Young-hwan Choi	1971	\N	cinematographer,camera_department	tt2357377,tt4768764,tt1274293,tt2330866
+nm0159087	Thomas Chong	\N	\N	costume_designer,production_designer,art_director	tt0446059,tt0311041,tt0127357,tt1258972
+nm0159450	Fu Liang Chou	\N	\N	composer,producer,music_department	tt1028528,tt0080179,tt0081452,tt0087145
+nm0159494	Raymond Chow	1927	2018	producer,miscellaneous,actor	tt0070034,tt0089374,tt0068935,tt0113326
+nm0160823	Emily Chu	1960	\N	actress	tt0091091,tt0092263,tt0094357,tt0093258
+nm0160877	Shih Mei Chu	\N	\N	producer,production_designer,miscellaneous	tt0077541,tt0078251,tt0076227,tt0074747
+nm0160900	Yen-Ping Chu	1950	\N	director,writer,producer	tt2166325,tt1239466,tt0187030,tt1328865
+nm0161158	Chun Sun	\N	\N	actor	tt0348021,tt1772230,tt0425637,tt9124410
+nm0161159	Tin Nam Chun	\N	\N	writer,miscellaneous	tt0429078,tt0913968,tt1403130,tt1075419
+nm0161161	Chao Yung Chen	\N	\N	cinematographer,camera_department,actor	tt0075439,tt0070942,tt0081794,tt0445278
+nm0165560	Paul B. Clay	1943	\N	sound_department,music_department,composer	tt0105121,tt0240890,tt0120888,tt0096684
+nm0167195	Robert Clouse	1928	1997	director,writer,producer	tt0077594,tt0073835,tt0106770,tt0070034
+nm0167795	Melissa Cobb	\N	\N	miscellaneous,producer,production_manager	tt0441773,tt2267968,tt1302011,tt0120631
+nm0167938	Eva Cobo	1967	\N	actress	tt0099558,tt0441430,tt0090302,tt0085569
+nm0176869	Steve Coogan	1965	\N	actor,producer,writer	tt0129690,tt0469021,tt2431286,tt0274309
+nm0178997	Frank Coraci	1966	\N	director,actor,producer	tt0120888,tt0327437,tt0120484,tt0389860
+nm0192984	Paul Currie	\N	\N	producer,director,assistant_director	tt1131724,tt0316353,tt5813366,tt2119532
+nm0197773	Richard Dale	\N	\N	producer,director,writer	tt0808138,tt0412617,tt6238896,tt0200346
+nm0201304	Gregory Poirier	1961	\N	writer,producer,director	tt1273678,tt1828246,tt0120036,tt0465234
+nm0201373	Jennifer Darling	1946	\N	actress,miscellaneous	tt0117876,tt0129167,tt0073965,tt0071054
+nm0212933	Rod Dean	\N	\N	editorial_department,editor,miscellaneous	tt1951266,tt0111512,tt2094766,tt1951265
+nm0213374	Kristine DeBell	1954	\N	actress,soundtrack	tt0069658,tt0078878,tt0080436,tt0079540
+nm0223359	Tom Dey	1965	\N	director,producer,executive	tt0284490,tt0427229,tt0184894,tt1392197
+nm0225146	Lorenzo di Bonaventura	1957	\N	producer,actor,executive	tt0430105,tt1046173,tt4779682,tt0418279
+nm0227625	Sheng Ding	\N	\N	director,writer,editor	tt9243442,tt2599716,tt5846644,tt4819560
+nm0229694	David Dobkin	1969	\N	producer,director,writer	tt1972591,tt1872194,tt0790736,tt0486583
+nm0232504	Tung-Shing Yee	1957	\N	actor,director,producer	tt0430772,tt4786802,tt0841150,tt1075419
+nm0233036	Michael Donovan	1953	\N	actor,miscellaneous,casting_director	tt3468260,tt3748528,tt2488496,tt0219458
+nm0246738	Romeo Díaz	\N	\N	composer,music_department,soundtrack	tt0093978,tt0098147,tt0100973,tt0103285
+nm0262968	Lee Evans	1964	\N	actor,writer,music_department	tt0119715,tt0129387,tt0119116,tt0288045
+nm0263727	Neil Every	\N	\N	writer,director,camera_department	tt0407782,tt2385378,tt4136008,tt2950668
+nm0263851	Rosamund Kwan	1962	\N	actress	tt0091091,tt0085841,tt0103328,tt0102074
+nm0266747	Fang Fang	1953	\N	actress,miscellaneous	tt1575717,tt2446390,tt5850976,tt3091726
+nm0271799	Feng Hsu	1950	\N	actress,producer,miscellaneous	tt0064451,tt0099719,tt0106332,tt0830505
+nm0271814	Hai-Feng Wei	\N	\N	cinematographer,director,writer	tt1437851,tt0201366,tt0068000,tt0076048
+nm0271815	Xiaogang Feng	1958	\N	writer,music_department,director	tt0881200,tt6654316,tt0439884,tt4701702
+nm0274255	Michelle Ferre	1973	\N	actress	tt1873608,tt0127357
+nm0279729	Paul Fisher	\N	\N	animation_department,art_department,writer	tt0892769,tt3014284,tt0120794,tt0892791
+nm0286499	Lola Forner	1960	\N	actress	tt1275297,tt0100269,tt0087578,tt0091431
+nm0297133	Li Fu	\N	\N	composer,writer,director	tt0320109,tt0105845,tt0112660,tt6571630
+nm0299301	John Fusco	\N	\N	writer,producer,actor	tt0317648,tt0096487,tt0166813,tt0865556
+nm0322785	James Glickenhaus	1950	\N	director,writer,soundtrack	tt0114676,tt0080707,tt0084704,tt0096087
+nm0322802	Jonathan Glickman	1969	\N	producer,executive	tt0253556,tt0245844,tt0119229,tt1243957
+nm0331822	Kumiko Goto	1974	\N	actress	tt0265606,tt0100312,tt0100311,tt0103950
+nm0332184	Alfred Gough	1967	\N	writer,producer,director	tt0316654,tt1464540,tt0859163,tt0279600
+nm0345150	Joseph Koo	1933	\N	composer,music_department,soundtrack	tt0186198,tt0098147,tt0092263,tt0068935
+nm0373588	Alex Heffes	1971	\N	composer,soundtrack,music_department	tt1161864,tt1211956,tt0455590,tt0473705
+nm0378245	Taraji P. Henson	1970	\N	actress,producer,soundtrack	tt0421715,tt4846340,tt0410097,tt1155076
+nm0381478	Jared Hess	1979	\N	writer,director,producer	tt0374900,tt1161418,tt2461150,tt0457510
+nm0383258	Keigo Higashino	1958	\N	writer	tt1946285,tt7080138,tt2282917,tt1415224
+nm0387306	Ivy Ho	\N	\N	writer,producer,actress	tt1303846,tt1447800,tt0312886,tt0117905
+nm0387337	Leonard Ho	1925	1997	producer,miscellaneous,production_manager	tt0113326,tt0111512,tt0127357,tt0089374
+nm0389885	Hoi Mang	\N	\N	actor,stunts,miscellaneous	tt0093229,tt0112800,tt0084267,tt0094374
+nm0393207	Ting Hung Kuo	\N	\N	editor,producer,miscellaneous	tt0066587,tt0365808,tt1236183,tt0069518
+nm0398786	Hsin Yi Chang	\N	\N	writer,director,assistant_director	tt0188782,tt1603834,tt0200003,tt5977870
+nm0398801	Chun-Hsiung Ko	1945	2015	actor,producer,director	tt1470842,tt0105845,tt1483384,tt1450639
+nm0398852	Vivian Hsu	1975	\N	actress,producer,soundtrack	tt0445609,tt0768137,tt1857913,tt7782570
+nm0398861	Hung Poon	\N	\N	editor,editorial_department,assistant_director	tt0097618,tt0104322,tt1462900,tt0080179
+nm0398934	Li Hua Li	1924	2017	actress,music_department,producer	tt0456741,tt5592298,tt0058760,tt0211424
+nm0398969	Bruce Le	1950	\N	actor,stunts,director	tt0075859,tt0080475,tt0077645,tt0078911
+nm0399007	Jung-Lee Hwang	1944	\N	actor,director,miscellaneous	tt0080179,tt0076709,tt0091091,tt0076939
+nm0399074	James Wong	1940	2004	actor,soundtrack,music_department	tt0100973,tt0103285,tt0097202,tt0093978
+nm0399077	Chih-Hsiung Huang	\N	\N	editor,composer,miscellaneous	tt0107161,tt0094146,tt0095011,tt0079051
+nm0401180	Clarence Hui	\N	\N	composer,actor,music_department	tt0109958,tt0117575,tt0189954,tt0114412
+nm0401201	Michael Hui	1942	\N	actor,writer,director	tt0091227,tt0082761,tt0095396,tt0088268
+nm0405783	Tsukasa Hôjô	1959	\N	writer,animation_department,director	tt10053058,tt1982229,tt0132019,tt6144244
+nm0407453	Shôko Ikeda	1967	\N	actress	tt0099558,tt0103718,tt0798420,tt1068535
+nm0410419	Mark Irwin	1950	\N	cinematographer,camera_department	tt0100502,tt0117571,tt0129387,tt0302886
+nm0422271	Robert C. Jessup	1930	2008	cinematographer,camera_department	tt0091993,tt0075235,tt0076729,tt0084684
+nm0424216	Johnny Knoxville	1971	\N	writer,producer,actor	tt1291150,tt3063516,tt0267891,tt0377818
+nm0432005	Chun-Erh Lung	1957	\N	actress	tt0203232,tt0081495,tt0164453,tt1289814
+nm0432531	Jing Fang	\N	\N	actor,music_department	tt2094197,tt0079509,tt0093228,tt6571630
+nm0436339	Hsin Chin	\N	\N	actor,writer,director	tt0077694,tt0201191,tt2173776,tt0080413
+nm0436340	Kang Chin	1939	\N	actor,stunts,miscellaneous	tt0072913,tt0068159,tt0186088,tt0198611
+nm0436348	Peter Kam	1961	\N	composer,music_department,soundtrack	tt2186715,tt1718199,tt0499141,tt0454914
+nm0436543	Robert Mark Kamen	1947	\N	writer,producer,miscellaneous	tt0119116,tt0293662,tt0936501,tt0097647
+nm0437630	Kar-Ying Law	1947	\N	actor,music_department	tt0111767,tt0109962,tt0112778,tt0116014
+nm0437900	Hal Kanter	1918	2011	writer,producer,director	tt0056792,tt0046604,tt0057795,tt0062575
+nm0443753	Ke Szema	\N	\N	writer,director	tt0185591,tt0184077,tt0080897,tt0078523
+nm0453608	Min Kim	1973	\N	actress	tt0271946,tt0299937,tt0239510,tt0439392
+nm0455098	Ta Chiang Wu	\N	\N	composer,music_department	tt1745677,tt0079886,tt0068803,tt0064451
+nm0457491	Nobuyasu Kita	\N	\N	cinematographer,camera_department	tt0397317,tt1436045,tt0257844,tt1075419
+nm0463674	Vincent Kok	1965	\N	actor,writer,director	tt0184526,tt1623759,tt0312932,tt0294251
+nm0465503	Louis Koo	1970	\N	actor,producer,soundtrack	tt0841150,tt2957774,tt7245176,tt1535495
+nm0467942	Jim Kouf	1951	\N	writer,producer,director	tt0316732,tt1830617,tt0368891,tt0120812
+nm0473325	Lung Ku	1937	1985	writer,producer,miscellaneous	tt0074747,tt2169700,tt2169508,tt3149610
+nm0473928	Yeong-Mun Kwon	\N	\N	actor,stunts,assistant_director	tt0085127,tt0091433,tt0318282,tt0092549
+nm0474373	Val Kuklowsky	\N	\N	sound_department,editor,producer	tt0111282,tt0141926,tt0116629,tt0114857
+nm0475423	Claire Kupchak	\N	\N	producer,actress	tt0359774,tt0169990,tt1615160,tt5812994
+nm0477035	Corey Yuen	1951	\N	actor,stunts,director	tt0425637,tt0300620,tt0293662,tt0094374
+nm0477093	Chun Yang	1935	\N	actor,producer,miscellaneous	tt1427286,tt0071567,tt0077641,tt5592298
+nm0477108	Teddy Robin Kwan	1945	\N	composer,actor,producer	tt0093435,tt1756487,tt0083708,tt1611823
+nm0477241	Wai Chung Kwok	\N	\N	writer,actor	tt0110577,tt0114126,tt0102162,tt0106974
+nm0481691	Henry Lai	\N	\N	composer,music_department,soundtrack	tt4788638,tt1330525,tt0882978,tt3003668
+nm0482585	Lam Chua	1941	\N	producer,production_manager,miscellaneous	tt0102293,tt0091431,tt0117786,tt0102562
+nm0482595	David Lam	\N	\N	director,actor,producer	tt0111774,tt3469440,tt0184927,tt0107399
+nm0482647	Kwok-Hung Lam	1958	\N	actor	tt0095403,tt0089374,tt0092501,tt2656412
+nm0482657	Man Yee Lam	\N	\N	composer,music_department,soundtrack	tt0089576,tt0087959,tt0091427,tt0084248
+nm0482681	Ringo Lam	1955	2018	director,writer,producer	tt0224345,tt3801934,tt0134664,tt0093435
+nm0482697	Siu-Lam Tang	\N	\N	composer,music_department,sound_department	tt0093944,tt0091431,tt0089374,tt0087578
+nm0482780	Ross LaManna	\N	\N	writer	tt0266915,tt0293564,tt4085584,tt0120812
+nm0489876	James Lassiter	\N	\N	producer,music_department,manager	tt0386588,tt0814314,tt0343818,tt0248667
+nm0490489	Andy Lau	1961	\N	actor,producer,soundtrack	tt0338564,tt0216165,tt0385004,tt0374339
+nm0490500	Carina Lau	1964	\N	actress,producer	tt0212712,tt1123373,tt0369060,tt0101258
+nm0490605	Ricky Lau	1949	\N	director,actor,cinematographer	tt0111761,tt0089371,tt0100609,tt0080152
+nm0490626	Tin-Chi Lau	\N	\N	writer,actor,producer	tt0077667,tt0080971,tt0081499,tt0081669
+nm0495319	Stephen Leather	\N	\N	writer,producer	tt0271295,tt0155436,tt1615160,tt0288380
+nm0496752	Daniel Lee	\N	\N	director,writer,production_designer	tt3672840,tt0115693,tt2102472,tt0882978
+nm0497090	Daniel Lee	\N	\N	actor,writer,director	tt6385714,tt0367105,tt5198350
+nm0497379	Han Hsiang Li	1926	1996	director,writer,miscellaneous	tt0311305,tt0078470,tt0067797,tt0057248
+nm0497763	Lily Li	1950	\N	actress	tt0075415,tt0074355,tt0086606,tt0081499
+nm0497901	Miki Lee	1977	\N	actress	tt7514772,tt0117786,tt0229492,tt0264588
+nm0498775	Michael Leeson	\N	2016	writer,producer,miscellaneous	tt0290095,tt0098621,tt0098809,tt0086687
+nm0499995	Siu-Tin Lai	1946	\N	actor,composer,music_department	tt0089374,tt0091431,tt0093258,tt2017561
+nm0504897	Tony Chiu-Wai Leung	1962	\N	actor,soundtrack,music_department	tt0212712,tt0338564,tt0109424,tt0118694
+nm0504899	Tony Ka Fai Leung	1958	\N	actor,producer,writer	tt0380291,tt0434008,tt0101316,tt2186715
+nm0504935	Yiu-ming Leung	\N	\N	writer,actor,miscellaneous	tt0103285,tt0100973,tt0092937,tt0093015
+nm0504962	Ken Leung	1970	\N	actor,soundtrack	tt0411008,tt2488496,tt0171433,tt0141842
+nm0505152	Brian Levant	1952	\N	producer,writer,director	tt1273678,tt0116705,tt0109813,tt0088616
+nm0508330	Li Hwa Hsu	\N	\N	miscellaneous,producer,actor	tt1265126,tt0089519,tt0079315,tt0078251
+nm0508356	Bingbing Li	1973	\N	actress,producer,visual_effects	tt2109248,tt1855325,tt4779682,tt0865556
+nm0508591	Shiu Bu Lia	\N	\N	actor	tt0079509,tt0200084
+nm0508667	Yung-Chi Liang	\N	\N	cinematographer,camera_department	tt0073694,tt0158523
+nm0509599	Hung Lieh Chen	1943	2009	actor,director,producer	tt1562477,tt7705702,tt0059079,tt0080042
+nm0510857	Brigitte Lin	1954	\N	actress	tt0109424,tt0103295,tt0109688,tt0089374
+nm0512696	Ling Chiang	\N	\N	actress,music_department	tt0193855,tt0072087,tt0068744,tt0069702
+nm0514821	Alex Litvak	\N	\N	writer,producer,actor	tt1424381,tt0455782,tt1741202,tt1509767
+nm0514906	Chia-Liang Liu	1936	2013	actor,stunts,miscellaneous	tt0080717,tt0108308,tt0111512,tt0084671
+nm0514944	Jackson Lou	1962	\N	actor	tt0116704,tt0110200,tt0115475,tt6072398
+nm0516343	Lu Tung	\N	\N	writer,actor,assistant_director	tt0094854,tt0099154,tt0081499,tt0074743
+nm0516344	Wei Lo	1918	1996	actor,director,producer	tt0068767,tt0076285,tt0067824,tt0070705
+nm0516352	Yiu Fai Lo	\N	\N	writer,director,actor	tt0843287,tt0441511,tt0184526,tt5805026
+nm0517517	Bob Logan	\N	\N	animation_department,art_department,writer	tt0448694,tt1001526,tt0375568,tt3014284
+nm0518821	John Lone	1952	\N	actor,soundtrack	tt0093389,tt0266915,tt0090350,tt0111143
+nm0519680	Eric Loomis	1964	\N	actor	tt1626038,tt1371159,tt6857544,tt1764479
+nm0519731	Lung Hsiao	\N	\N	writer,director,assistant_director	tt0082179,tt0080179,tt0079609,tt1949242
+nm0525961	D. Scott Lumpkin	\N	\N	producer,production_manager,location_management	tt1259528,tt5834854,tt2461150,tt1615160
+nm0526714	Dick Wei	1953	\N	actor,stunts,director	tt0092273,tt0100584,tt0182961,tt0091091
+nm0530853	Fibe Ma	\N	\N	writer	tt0104558,tt0117786,tt0112455,tt0113326
+nm0530871	Kuan-Hua Ma	\N	\N	cinematographer,camera_department,actor	tt0077277,tt0080971,tt0091140,tt0100961
+nm0535320	Jack Maeby	\N	\N	writer,music_department,sound_department	tt0108281,tt0110200,tt0363226,tt0085127
+nm0538683	Mako	1933	2006	actor,soundtrack,production_designer	tt0082198,tt0213149,tt0087078,tt0060934
+nm0542062	Matt Manfredi	1971	\N	writer,producer,director	tt0402022,tt2400463,tt0277615,tt0790736
+nm0545861	David Marconi	\N	\N	writer,director,art_department	tt0337978,tt0107084,tt0120660,tt1615160
+nm0550301	Mars	1954	\N	actor,stunts,miscellaneous	tt0085127,tt0111512,tt0119013,tt0089374
+nm0572963	Karen McLymont	\N	\N	miscellaneous,actress	tt2947284,tt0117786
+nm0578128	Greg Mellott	\N	\N	writer,director,producer	tt0283942,tt0117433,tt1205005,tt0116704
+nm0581266	Brandon Merrill	\N	\N	actress	tt0184894
+nm0583963	Nora Miao	1952	\N	actress,production_manager	tt0068935,tt1756487,tt0067824,tt1196714
+nm0587692	Miles Millar	1970	\N	writer,producer,director	tt0279600,tt0316654,tt0859163,tt1464540
+nm0588953	Melanie Miller	1972	\N	producer,music_department,miscellaneous	tt1753693,tt4341390,tt7527564,tt0133189
+nm0591450	Rob Minkoff	1962	\N	producer,director,animation_department	tt0095776,tt0243585,tt0110357,tt0865556
+nm0610786	Mu Chu	1938	2007	actor,director,writer	tt0362241,tt1441874,tt0068000,tt0124836
+nm0611315	Anita Mui	1963	2003	actress,music_department,soundtrack	tt0105619,tt0113326,tt0111512,tt0093258
+nm0611344	Domonic Muir	1962	2010	writer,actor,visual_effects	tt0090887,tt0114437,tt0163818,tt0110054
+nm0614050	Christopher Murphey	\N	\N	writer,producer	tt1155076,tt0258967,tt1587669,tt0762143
+nm0618680	Jeffrey Nachmanoff	1967	\N	producer,writer,director	tt0319262,tt1243957,tt2647258,tt0988047
+nm0620596	James Nam	\N	\N	actor,director,producer	tt0077277,tt0070800,tt0327415,tt0186102
+nm0620699	Nan Chiang	1923	\N	actor,director,writer	tt0477865,tt0477833,tt1160784,tt1382598
+nm0622288	Jeff Nathanson	1965	\N	writer,miscellaneous,producer	tt0266915,tt0120179,tt0264464,tt1790809
+nm0628056	David Newman	1954	\N	composer,music_department,soundtrack	tt0144528,tt0117218,tt0251127,tt0094142
+nm0628739	Christine Ng	1969	\N	actress	tt0120812,tt0108656,tt0446326,tt0116464
+nm0628827	Richard Ng	1939	\N	actor,writer,miscellaneous	tt0086605,tt0106545,tt0325703,tt0088105
+nm0628838	See-Yuen Ng	1944	\N	producer,writer,director	tt0121259,tt0080179,tt1462900,tt0116239
+nm0629993	Thorsten Nickel	1966	\N	actor	tt0136774,tt0256145,tt0114126,tt1729662
+nm0636046	Nolan North	1970	\N	actor,miscellaneous,soundtrack	tt4642170,tt5766946,tt1578873,tt1408101
+nm0636280	Richard Norton	1950	\N	actor,stunts,producer	tt0089243,tt0382992,tt1392190,tt1386697
+nm0657064	Ho-Sung Pak	1967	\N	actor,stunts,producer	tt1234719,tt1274418,tt2872718,tt2109248
+nm0659015	Lei Pan	1927	2017	writer,director,music_department	tt1779851,tt0067420,tt0072839,tt1315594
+nm0666702	Peter Pau	1952	\N	cinematographer,actor,director	tt0865556,tt0454914,tt0190332,tt0106342
+nm0670481	Pai Wei	1957	\N	actor	tt0089135,tt0077655,tt0077559,tt0079372
+nm0684134	Siu Ping Cheng	\N	\N	actress	tt0084955,tt0094374,tt0087203,tt0192632
+nm0690940	Hang-Sang Poon	\N	\N	cinematographer,actor,camera_department	tt1386932,tt0373074,tt0127357,tt0227984
+nm0702666	Ching Wong	1949	\N	actor,stunts,miscellaneous	tt0070800,tt5559570,tt0080748,tt0069959
+nm0704979	Paul Rabjohns	\N	\N	music_department,composer,soundtrack	tt0443489,tt0358135,tt2660888,tt1477834
+nm0711840	Brett Ratner	1969	\N	producer,director,actor	tt0120812,tt0376994,tt1267297,tt0289765
+nm0717550	Ethan Reiff	1965	\N	writer,producer,cinematographer	tt0165564,tt0245803,tt0955308,tt0465353
+nm0719096	Esmond Ren	\N	\N	producer,actor	tt6879446,tt2238032,tt1424310,tt0116704
+nm0721825	Lee Reynolds	\N	\N	writer	tt0099399,tt0092534,tt0105480,tt0127357
+nm0728307	Robert Riskin	1897	1955	writer,producer,director	tt0027996,tt0030993,tt0280590,tt0025316
+nm0729374	Nicholas Rivera	\N	\N	composer,music_department,soundtrack	tt4416518,tt0265521,tt0100961,tt0113153
+nm0750357	Damon Runyon	1880	1946	writer,actor,producer	tt2870786,tt0048140,tt0034514,tt0024240
+nm0751481	Toby Russell	\N	\N	actor,assistant_director,producer	tt0396780,tt3724490,tt0109433,tt0396548
+nm0760796	Hiroyuki Sanada	1960	\N	actor,music_department,composer	tt4154796,tt0448134,tt0351817,tt1430132
+nm0762632	John Sham	1952	\N	actor,producer,miscellaneous	tt0091951,tt0101764,tt0093944,tt0093426
+nm0765306	Arthur M. Sarkissian	1960	\N	producer,executive	tt0116830,tt0266915,tt1615160,tt0120812
+nm0775443	Adam Schroeder	\N	\N	producer,executive	tt0120382,tt0162661,tt0112697,tt1706593
+nm0783652	Sergey Selyanov	1955	\N	producer,director,writer	tt0847880,tt0416044,tt0202665,tt6537238
+nm0788405	Bing Shao	1968	\N	actor,miscellaneous	tt0461329,tt0131655,tt0470984,tt0365847
+nm0788411	Run Run Shaw	1907	2014	producer,miscellaneous,production_manager	tt0083658,tt0066587,tt0078243,tt0070800
+nm0790925	Dean Shek	1950	\N	actor,producer,miscellaneous	tt0080179,tt0996367,tt0094357,tt0094854
+nm0791461	Shen Chan	1940	1984	actor	tt0070800,tt0353250,tt0072087,tt0078243
+nm0791473	Ie Lung Shen	\N	\N	actor	tt0076227,tt0165362,tt0074595
+nm0791949	John Sheppard	\N	\N	writer,producer,miscellaneous	tt0091475,tt0088559,tt0091431,tt0108909
+nm0793930	Chin Yung Shing	\N	\N	composer,music_department,sound_department	tt0102562,tt0094374,tt0094146,tt0378194
+nm0795517	Qi Shu	1976	\N	actress,soundtrack,writer	tt4276752,tt0293662,tt2017561,tt3508840
+nm0798661	Casey Silver	1955	\N	producer,miscellaneous,editorial_department	tt1860242,tt0865556,tt0349710,tt0317648
+nm0800465	Robert Simonds	1964	\N	producer,executive	tt4651520,tt6359956,tt1987680
+nm0803298	Siu Tin Yuen	1912	1979	actor,stunts,miscellaneous	tt0201366,tt0080179,tt0058108,tt5340988
+nm0806822	Ron Smerczak	1949	2019	actor	tt0115335,tt0127357,tt0113719,tt1492179
+nm0811607	Solon So	\N	\N	producer,miscellaneous	tt0184894,tt0290095,tt0865556,tt1075419
+nm0829181	April Stewart	1969	\N	actress,soundtrack	tt2133326,tt1229238,tt1695360,tt1322987
+nm0839003	Yueh Sun	1930	2018	actor,music_department,assistant_director	tt0183390,tt0085388,tt5592298,tt0093435
+nm0847562	Naoto Takenaka	1956	\N	actor,director,writer	tt0123302,tt0286916,tt0109008,tt0102480
+nm0848355	Alan Tam	1950	\N	actor,producer,music_department	tt0091431,tt0289112,tt0121057,tt0105851
+nm0848903	Tao-Liang Tan	1947	\N	actor,producer,writer	tt0101509,tt2279393,tt0073694,tt0202004
+nm0849214	Mark Tandy	1957	\N	actor	tt4786824,tt0093512,tt0317198,tt1615160
+nm0849282	Edward Tang	1946	\N	writer,producer,miscellaneous	tt0095403,tt0104558,tt0113326,tt0111512
+nm0851317	Fred Tatasciore	1968	\N	actor,miscellaneous,director	tt0372588,tt0385700,tt1302011,tt1823262
+nm0857620	Justin Theroux	1971	\N	actor,writer,producer	tt0166924,tt0144084,tt0305357,tt3631112
+nm0862479	Lung Ti	1946	\N	actor,director,writer	tt0069881,tt0092263,tt0223603,tt0111512
+nm0862875	James Tien	\N	\N	actor,assistant_director	tt0067824,tt0094374,tt0067933,tt0091091
+nm0864435	David N. Titcher	\N	\N	producer,writer	tt0327437,tt4539954,tt0412915,tt3663490
+nm0867225	Elliot Tong	\N	\N	producer,actor,writer	tt0296042,tt0116704,tt3202890,tt6643972
+nm0867246	Man-Ming Tong	\N	\N	writer	tt0111512
+nm0867262	Stanley Tong	1960	\N	producer,director,stunts	tt0266408,tt0113326,tt0365847,tt0116704
+nm0870802	Nick Tramontane	\N	\N	writer	tt0116704
+nm0874619	Chi-Kuang Tsai	\N	\N	writer,director,producer	tt0185205,tt0078252,tt0102890,tt2185876
+nm0874676	Eric Tsang	1953	\N	actor,producer,director	tt0144029,tt0325655,tt0111512,tt0338564
+nm0874684	Kenneth Tsang	1935	\N	actor,director,writer	tt0120008,tt0097202,tt0266915,tt0246460
+nm0874866	Nicholas Tse	1980	\N	actor,soundtrack,music_department	tt0279193,tt0386005,tt0168264,tt1403130
+nm0876223	Harry Tugend	1897	1989	producer,writer,assistant_director	tt0056742,tt0038438,tt0034960,tt0041944
+nm0876602	Barbie Tung	\N	\N	producer,production_manager	tt0113326,tt0111512,tt0127357,tt0116704
+nm0876603	Bill Tung	1933	2006	actor,miscellaneous	tt0104558,tt0116704,tt0113326,tt0089374
+nm0882054	Benny Urquidez	1952	\N	stunts,actor,miscellaneous	tt0098206,tt0118880,tt0450385,tt0119229
+nm0894523	Jules Verne	1828	1905	writer	tt0373051,tt2566204,tt0327437,tt1397514
+nm0903456	Cyrus Voris	\N	\N	writer,producer,art_department	tt0465353,tt0165564,tt0245803,tt0955308
+nm0906402	Austin Wai	1957	2012	actor,stunts	tt0276156,tt0478024,tt0992911,tt0078243
+nm0906414	Tommy Wai	\N	\N	composer,music_department,soundtrack	tt0251433,tt1611823,tt2106741,tt3414954
+nm0907742	Galen Walker	\N	\N	sound_department,producer,production_manager	tt0159097,tt1291150,tt0453556,tt3949660
+nm0910800	Michael Wandmacher	1967	\N	composer,music_department,soundtrack	tt1179891,tt3717252,tt1544608,tt3814634
+nm0910855	Chao-Hsi Wang	\N	\N	editor,production_manager	tt0058531,tt8858004,tt1160784,tt1630583
+nm0910924	Hui-Ling Wang	\N	\N	writer,actress,soundtrack	tt0808357,tt0190332,tt0111797,tt6157626
+nm0910966	Leehom Wang	1976	\N	actor,soundtrack,composer	tt2401825,tt1319718,tt2717822,tt0808357
+nm0910996	Nathan Wang	1956	\N	composer,music_department,soundtrack	tt0127357,tt0113326,tt1414382,tt0454945
+nm0911032	Shuo Wang	1958	\N	writer,actor,director	tt1810602,tt0256630,tt2992152,tt1367515
+nm0911093	Jimmy Wang Yu	1944	\N	actor,producer,director	tt3091254,tt0072913,tt1718199,tt0067009
+nm0911117	Zhonglei Wang	1970	\N	producer,production_manager,actor	tt4560436,tt3072482,tt6306064,tt3922818
+nm0915304	Scott Waugh	\N	\N	stunts,producer,actor	tt0295701,tt1591479,tt5503688,tt2369135
+nm0915452	David Tao	1942	2012	actor,music_department,composer	tt0079509,tt0091360,tt1758630,tt2571062
+nm0916424	Peter Webber	1968	\N	director,editor,producer	tt0335119,tt2103264,tt0367959,tt6238896
+nm0917671	Wei Wang	\N	\N	producer,miscellaneous	tt0425637,tt0765120,tt4217392,tt0209077
+nm0918518	Fred Weintraub	1928	2017	producer,writer,miscellaneous	tt0079756,tt0074646,tt0074409,tt0070034
+nm0923932	Paul Wheeler	1934	\N	writer	tt0073796,tt3726258,tt0288045,tt0071278
+nm0923980	William Wheeler	1967	\N	producer,writer	tt4341582,tt2249007,tt0462338,tt2032557
+nm0929489	Tom Wilkinson	1948	\N	actor,soundtrack	tt0247425,tt0465538,tt2278388,tt0119164
+nm0935042	Wally Wingert	1961	\N	actor,miscellaneous,writer	tt0434665,tt0385700,tt1568322,tt1282022
+nm0938925	Annie Wu	1978	\N	actress,make_up_department	tt0184526,tt0116704,tt0162874,tt7529862
+nm0938939	Arthur Wong	\N	\N	cinematographer,actor,producer	tt1403130,tt0370032,tt0226693,tt0913968
+nm0938944	Barry Wong	1946	1992	writer,actor,miscellaneous	tt0089371,tt0103045,tt0104684,tt0097202
+nm0939022	Dan-yee Wong	\N	\N	composer,soundtrack	tt0184526,tt0116820,tt1020976,tt0996978
+nm0939056	Fann Wong	1971	\N	actress,soundtrack	tt0300471,tt0317034,tt0314978,tt0317019
+nm0939147	Jing Wong	1955	\N	writer,producer,director	tt0489067,tt0375669,tt3444184,tt0885507
+nm0939153	Joey Wang	1967	\N	actress,animation_department	tt0102932,tt0279523,tt0097244,tt0093978
+nm0939202	Kirk Wong	1949	\N	actor,director,writer	tt0096263,tt0084056,tt0120609,tt0108656
+nm0939255	Michael Wong	1965	\N	actor,producer,director	tt0279960,tt0103950,tt0429078,tt2109248
+nm0939415	Yik Wong	1952	2017	writer	tt0855326,tt0105399,tt0852721
+nm0943079	Daniel Wu	1974	\N	actor,producer,director	tt0800362,tt1258972,tt2051879,tt0803096
+nm0943104	Jing Wu	1974	\N	actor,director,writer	tt3540136,tt7131870,tt0478024,tt0859163
+nm0943138	Wu Ma	1942	2014	actor,director,miscellaneous	tt0093978,tt0094374,tt0107056,tt0084587
+nm0945188	Shi-Kwan Yen	1947	\N	actor,stunts	tt0070800,tt0103285,tt0108148,tt0064067
+nm0945457	Mirai Yamamoto	1974	\N	actress	tt1392162,tt0780049,tt0127357,tt2847220
+nm0945802	Geling Yan	\N	\N	writer,actress	tt6654316,tt1410063,tt0115005,tt0851532
+nm0945805	Chun Yen	1917	1980	actor,director,producer	tt0058760,tt0211740,tt0211452,tt0058505
+nm0947177	Lee Wai Yee	\N	\N	writer	tt0104558
+nm0947318	Yun Chiao Yeh	\N	\N	writer,miscellaneous,assistant_director	tt0111765,tt0099812,tt0085388,tt0115007
+nm0947807	Pauline Yeung	1967	\N	miscellaneous,actress	tt0111772,tt0093015,tt1194582,tt0115693
+nm0948026	Shirley Yim	1965	\N	actress	tt0082463,tt0081804,tt0843229,tt0827972
+nm0948044	Hsiao Yin Shen	\N	\N	miscellaneous,producer	tt0076178,tt0165193,tt5389812,tt0079509
+nm0948123	Françoise Yip	1972	\N	actress	tt0115693,tt0113326,tt0758730,tt0359013
+nm0949124	Carey Yost	1968	\N	animation_department,art_department,writer	tt0175058,tt0844471,tt0345950,tt0278238
+nm0950528	Ling Lung Yu	\N	\N	actor	tt0076227,tt0074747
+nm0950568	Yu Ting	\N	\N	writer,assistant_director,producer	tt0076659,tt0104684,tt0092501,tt0113326
+nm0950621	Tung-Chun Yuan	\N	\N	editor	tt0073694
+nm0950699	Kai-Chi Yuen	\N	\N	writer,assistant_director,director	tt0111512,tt1608148,tt0093978,tt0103285
+nm0950701	Alan Yuen	\N	\N	writer,director,assistant_director	tt0485976,tt3341072,tt1533749,tt3781476
+nm0950703	Anita Yuen	1971	\N	actress	tt0111770,tt0841150,tt0105864,tt0109958
+nm0950707	Biao Yuen	1957	\N	actor,stunts,miscellaneous	tt0094374,tt0184894,tt0085211,tt0068935
+nm0950759	Woo-Ping Yuen	1945	\N	actor,stunts,director	tt0446059,tt0373074,tt0190332,tt0378194
+nm0950775	Jennifer Yuh Nelson	1972	\N	animation_department,art_department,director	tt1302011,tt0118475,tt0118929,tt0441773
+nm0950964	Yung-Tai Lin	\N	\N	production_manager,producer	tt0212635,tt0208901,tt0124891,tt1164575
+nm0955377	Li Zhang	\N	\N	cinematographer,director,camera_department	tt4054338,tt0465676,tt0299977,tt0425637
+nm0955471	Ziyi Zhang	1979	\N	actress,soundtrack,producer	tt1462900,tt0397535,tt0190332,tt0385004
+nm0958969	Harald Zwart	1965	\N	director,writer,producer	tt1155076,tt3300980,tt0313911,tt1538403
+nm0960722	Paul Clay	\N	\N	writer,director,producer	tt0095403,tt0114126,tt0103437,tt0090418
+nm0961453	Daniel Navarrete	\N	\N	editor,editorial_department,cinematographer	tt0420504,tt2040593,tt0283373,tt0438877
+nm0994538	Joseph Kahn	1972	\N	director,cinematographer,editor	tt0329691,tt4671848,tt1701990,tt5883570
+nm1010222	Albert Yeung	\N	\N	producer,miscellaneous,executive	tt1175491,tt0296042,tt0288045,tt6878882
+nm1019493	Kevin Donovan	\N	\N	director,assistant_director,producer	tt7575504,tt0290095,tt3703512,tt8026848
+nm1022277	Cheuk-Hon Szeto	\N	\N	writer,director,sound_department	tt0093015,tt0094374,tt0091431,tt0083199
+nm10483676	Zhengting Zhu	\N	\N	actor	tt9695722,tt8146366
+nm10575242	Zion Wang	\N	\N	actress,art_director	tt10085422
+nm1062565	Jay Longino	\N	\N	writer,editor,editorial_department	tt7712592,tt2238032,tt5834402,tt7334528
+nm1070766	Rob Diamond	\N	\N	producer,writer,director	tt4837126,tt1943696,tt0892105,tt9354118
+nm1078479	John Cena	1977	\N	actor,soundtrack,producer	tt3152624,tt1160368,tt4701182,tt0419946
+nm1080906	Szu-Cheng Mu	\N	\N	actor,miscellaneous	tt0099886,tt2033273,tt0122089,tt1679624
+nm1085861	Sang-Woo Kwon	1976	\N	actor	tt1454545,tt0485552,tt0419135,tt1424310
+nm1091782	Ye Liu	1978	\N	actor	tt0292066,tt0450044,tt0473444,tt1919137
+nm1093951	Aaron Taylor-Johnson	1990	\N	actor,soundtrack,music_department	tt1266029,tt4550098,tt1250777,tt0831387
+nm1095832	Chun Chin	\N	\N	actor,miscellaneous,set_decorator	tt0073168,tt0195257,tt0076659,tt0400699
+nm1109494	Alita Holly	1966	\N	producer,director,production_manager	tt0380521,tt1674783,tt0306028,tt0325773
+nm1117226	Tom Wheeler	\N	\N	writer,producer,actor	tt3014284,tt0448694,tt0452718,tt1593823
+nm1121703	Ken Miller	\N	\N	writer,miscellaneous	tt0374633,tt1774331,tt0300860,tt1928335
+nm1138888	Ying Cheung	1919	1984	actor,director,writer	tt1346328,tt6289282,tt0205769,tt6289284
+nm1144952	Terry Britten	\N	\N	soundtrack,composer	tt0089530,tt0091635,tt0084504,tt0089370
+nm1146362	King Sang Tang	\N	\N	writer,miscellaneous	tt0081499,tt0082463,tt0089847,tt0102077
+nm1163187	Su-cheon Bae	\N	\N	actor	tt0069800,tt0333585,tt0333927,tt2327409
+nm1163787	Chao Lin	\N	\N	cinematographer,camera_department,editor	tt1849766,tt0198664,tt0094854,tt0075959
+nm1189025	Steve Czarnecki	1973	\N	producer,director,writer	tt2381459,tt8300268,tt8301130,tt0145487
+nm1204634	Londin Winters	\N	\N	editor,producer	tt0438897,tt0277171,tt0438815,tt0438900
+nm1215055	Ping Jiang	\N	\N	director,producer,actor	tt5934728,tt9496886,tt1478291,tt1754001
+nm1217899	Shanghai	\N	\N	actor,producer	tt0407567,tt0382851,tt0350082,tt0432427
+nm1218953	Charlene Choi	1982	\N	actress,soundtrack	tt0865496,tt4510896,tt0366371,tt0351887
+nm1228408	Qiu Yuen	\N	\N	actress,director,producer	tt0078393,tt0373074,tt0097545,tt3801934
+nm1250939	Bo-lin Chen	1983	\N	actor,soundtrack	tt2215604,tt2473942,tt1538399,tt0469050
+nm1257480	Rufus Jones	1975	\N	actor,writer,producer	tt3610926,tt5603098,tt2554946,tt2375858
+nm1284187	Zhonglun Ren	\N	\N	producer,miscellaneous,executive	tt0425637,tt0212712,tt0808357,tt0859163
+nm1290580	David Gerson	\N	\N	producer,production_manager,actor	tt0472033,tt1013753,tt2852406,tt1901024
+nm1292891	Jinglei Xu	1974	\N	producer,actress,director	tt1621780,tt0379587,tt0424234,tt4823122
+nm1295684	Zhongqiang Jin	\N	\N	producer	tt0342697,tt5934728,tt8126860,tt0367247
+nm1309286	David Andrew Goldstein	\N	\N	writer	tt0327437
+nm1320897	Tian Jing	\N	\N	actress	tt2034800,tt3731562,tt2557478,tt6492378
+nm1365846	Adrian Lee	\N	\N	actor,composer,music_department	tt0288045,tt0380908,tt0139654,tt0102034
+nm1384267	David Buckley	\N	\N	composer,soundtrack,music_department	tt3799694,tt4196776,tt1442462,tt0840361
+nm1390445	Graham Lyle	1944	\N	soundtrack,composer	tt0091635,tt2848292,tt0089370,tt0089530
+nm1409854	Rick Baker	\N	\N	actor,writer,producer	tt0374633,tt0300860,tt0388013,tt0126164
+nm1424658	Bennett Davlin	\N	\N	writer,producer,director	tt1282038,tt0418879,tt0288045,tt0441036
+nm1471273	Gwing-Gai Lee	\N	\N	writer,miscellaneous,director	tt0488572,tt0113471,tt0087578,tt0446755
+nm1535523	Jaden Smith	1998	\N	actor,soundtrack,producer	tt1815862,tt0454921,tt0970416,tt1155076
+nm1548493	Jaycee Chan	1982	\N	actor,soundtrack,music_department	tt5813366,tt1517633,tt1308138,tt0831386
+nm1549063	Bingbing Fan	1981	\N	actress,music_department,producer	tt0399650,tt1877832,tt4409784,tt5918090
+nm1561982	Pilou Asbæk	1982	\N	actor,soundtrack,miscellaneous	tt1219827,tt2216240,tt0944947,tt4530422
+nm1595732	Kuo Chung Ching	\N	\N	actor,production_manager	tt0201099,tt0082482,tt0086304,tt0074747
+nm1615913	Kiefer Liu	\N	\N	director,producer,writer	tt1479241,tt0777723,tt0408930,tt0833451
+nm1618536	Xiaoding Zhao	\N	\N	cinematographer,director,camera_department	tt6138688,tt1410063,tt0473444,tt0385004
+nm1622192	Cary Cheng	\N	\N	producer,writer,assistant_director	tt1798684,tt5813366,tt1615160,tt0995739
+nm1630992	Madeline Carroll	1996	\N	actress,producer	tt1027862,tt0432021,tt0817177,tt1273678
+nm1648520	Katie Leung	1987	\N	actress	tt1201607,tt0417741,tt0330373,tt0373889
+nm1651354	Anna Churina	1978	\N	actress	tt6541376,tt0457074,tt1224378,tt1820524
+nm1662916	Chak Yan Mok	\N	\N	camera_department,cinematographer	tt0091421,tt3060566,tt0100595,tt0102017
+nm1682154	Susanna Tsang	\N	\N	producer,miscellaneous,production_manager	tt1442571,tt0114991,tt2102472,tt3672840
+nm1683236	Bobby Holliday	\N	\N	actress	tt0419277,tt0483841,tt1191122,tt5449328
+nm1683787	Adina Howard	1974	\N	soundtrack,actress,composer	tt0117891,tt0115783,tt5281600,tt0104558
+nm1698429	Aileen Li	\N	\N	producer,production_manager	tt0788086,tt5813366,tt1532348,tt1390405
+nm1707265	Albert Lee	\N	\N	producer,executive	tt1533749,tt0469050,tt1533117,tt1424310
+nm1814409	Ching Chu	1947	\N	actress	tt0065109,tt0076659,tt0201343,tt0073694
+nm1842626	Min Yao	1917	1967	composer,music_department,soundtrack	tt0118694,tt0349861,tt0205336,tt0445392
+nm1868320	Ashleigh Ball	1983	\N	actress,soundtrack,writer	tt1751105,tt2908228,tt3529198,tt4131800
+nm1882491	Francis Kao	\N	\N	producer	tt0818257,tt0375568,tt0465657,tt0453556
+nm1897071	Oleg Stepchenko	1964	\N	producer,director,writer	tt0457074,tt0459998,tt1224378,tt6218010
+nm1906532	Yu-Hsin Chen	\N	\N	actor,writer,assistant_director	tt0124891,tt0058505,tt1240962,tt0184045
+nm1923871	Alexey Petrukhin	1973	\N	actor,producer,writer	tt4574604,tt10487852,tt8244298,tt1224378
+nm1934885	Hai-shu Li	\N	\N	writer,director,assistant_director	tt8467178,tt0365847,tt2459282,tt6857276
+nm1936402	Tak-Bun Wong	1963	\N	actor,assistant_director,soundtrack	tt0114437,tt1708505,tt1010012,tt0386005
+nm1937443	Leo Zhang	\N	\N	director,writer,music_department	tt2124966,tt5813366,tt8702944,tt3302850
+nm1951118	Chris Ord	\N	\N	writer,producer,special_effects	tt6461736,tt8390342,tt4421578,tt1495708
+nm1953304	Matt Corman	\N	\N	writer,producer,actor	tt6461736,tt1495708,tt4421578,tt8390342
+nm1974626	Daniel Persitz	\N	\N	writer,producer,director	tt1204977,tt7737696,tt0442933,tt0385880
+nm1979442	Gangliang Fang	\N	\N	director,writer	tt3835880,tt4526842,tt1478291,tt0470532
+nm1999991	Devon Kliger	\N	\N	writer,producer,director	tt3901388,tt6214712,tt4076274
+nm2002649	Dave Franco	1985	\N	actor,writer,producer	tt3110958,tt1670345,tt2004420,tt3531824
+nm2028525	Jordan Schur	1964	\N	producer,executive	tt1634106,tt1423995,tt1741202,tt1291584
+nm2046855	Zach Woods	1984	\N	actor,writer,soundtrack	tt1386588,tt1226774,tt1289401,tt2575988
+nm2079044	Yin-Ju Lin	\N	\N	actor	tt0079484
+nm2084894	Yen Si-Kuan	\N	\N	actor	tt0079484
+nm2091311	Alex Jia	\N	\N	producer,miscellaneous,writer	tt4819560,tt2599716,tt10137146,tt1667150
+nm2142356	Liang-Kuan Li	\N	\N	producer,miscellaneous	tt0068000,tt1779821,tt0194064,tt1499357
+nm2184859	Si Won Choi	1986	\N	actor,soundtrack	tt0485863,tt3614922,tt3672840,tt3543344
+nm2199286	Jie Han	\N	\N	director,writer,producer	tt2043878,tt7645502,tt0495135,tt3394734
+nm2222628	Wayne Marc Godfrey	1981	\N	producer,miscellaneous,director	tt1615160,tt5362988,tt1285009,tt2932536
+nm2274407	Weixing Yao	\N	\N	stunts,actor	tt0370032,tt1155076,tt0425637,tt2238032
+nm2283697	Xiaoshi Zhao	\N	\N	cinematographer,camera_department	tt6772874,tt1744790,tt1388901,tt7638330
+nm2296454	Aaron Buchsbaum	\N	\N	writer,miscellaneous,art_department	tt0473705,tt2396475,tt2579372,tt4685784
+nm2313503	Yu-Li Lan	\N	\N	actress	tt0074747,tt3329592,tt7671708,tt2058644
+nm2318036	Christopher Donaldson	\N	\N	art_department,writer,director	tt4047038,tt10166508,tt6477264,tt2096634
+nm2342339	Ning Kai	\N	\N	writer,producer,composer	tt0070017,tt0420199,tt0188291,tt0185591
+nm2342385	Lan Shu	\N	\N	writer	tt0184599,tt1854287,tt0201555,tt1225893
+nm2359321	Chi Yuan Hsi	\N	\N	writer	tt0078252
+nm2362852	Huo An Hsi	\N	\N	writer	tt0078252
+nm2366522	Wen-Chia Chang	\N	\N	writer,miscellaneous,editor	tt1298649,tt2238032,tt1524930,tt1795603
+nm2378838	Mak Bau	\N	\N	actor	tt1810618,tt0386005
+nm2387337	Yao-Tsu Chang	\N	\N	cinematographer,composer	tt0095403
+nm2432722	Ethan Juan	1982	\N	actor,soundtrack	tt1847713,tt1604900,tt4012914,tt3508840
+nm2497357	Fai Young Chan	1968	\N	composer,music_department,soundtrack	tt4392726,tt0282159,tt0485976,tt0923923
+nm2502938	Hsin Wei	\N	\N	writer	tt0165193,tt0079509,tt0082482,tt0165136
+nm2591248	Yishan Zhang	1992	\N	actor,music_department	tt9496844,tt8216074,tt4701702,tt1173568
+nm2598556	Peng Cheng	\N	\N	actor,stunts	tt3186814,tt2870530,tt0082720,tt0072744
+nm2601077	Ming Chi Tang	\N	\N	writer,assistant_director	tt0080623,tt2320310,tt0165122,tt0076178
+nm2633856	Kuo-Nan Huang	\N	\N	cinematographer,camera_department	tt2096636,tt0068000,tt0187046,tt0263681
+nm2639120	Xingdong Wang	\N	\N	writer,actor,producer	tt1021085,tt5164864,tt5165012,tt1772230
+nm2704921	Ke-Wei Cheng	\N	\N	actress	tt0082428,tt0185591,tt0085389,tt0085545
+nm2809002	Cheng-Hang Lu	\N	\N	producer,miscellaneous	tt0137427,tt0070017,tt0184599,tt1152700
+nm2818863	BenDavid Grabinski	1983	\N	writer,director,producer	tt9849004,tt7242142,tt10473306,tt7716770
+nm2829518	Stephen McDonogh	\N	\N	producer,miscellaneous	tt1762399,tt5111874,tt6238896,tt2421662
+nm2848532	Jianzhong Zhang	\N	\N	actor,producer,production_manager	tt0365847
+nm2887441	Yang Kao	\N	\N	actor,miscellaneous	tt0070017,tt1164607,tt2900442,tt0198397
+nm2887720	Lixin Fan	\N	\N	director,camera_department,producer	tt2101352,tt0795174,tt1512201,tt6238896
+nm2888417	Li-Li Chen	1951	2017	actress,assistant_director,music_department	tt0195327,tt3037222,tt4535632,tt1859500
+nm2900221	Peter Lam	\N	\N	producer,miscellaneous,executive	tt1724970,tt1393746,tt1371111,tt0913968
+nm2955220	Hsiu-yi Fang	\N	\N	actor	tt0078128
+nm2972864	Jared Stern	\N	\N	writer,producer,miscellaneous	tt4116284,tt2234155,tt1772341,tt1298649
+nm2973494	Juana Collignon	\N	\N	actress	tt0865556
+nm3014268	Yung-Kuo Li	\N	\N	actor	tt0078251
+nm3073218	Kai Wang	1982	\N	actor,soundtrack	tt5846644,tt5141800,tt5154296,tt4226386
+nm3086267	Hong Hsu	\N	\N	actor	tt0079315,tt0078128
+nm3086858	Chih-Ping Chiang	\N	\N	actor,producer	tt1456912,tt0079315,tt0078128,tt0166094
+nm3091923	Chung-Ping Wang	1941	\N	writer,production_manager,miscellaneous	tt1442511,tt0079484,tt0165123,tt0098617
+nm3138511	Yang Yang	1991	\N	actor,soundtrack	tt1203538,tt10732794,tt6979188,tt4219438
+nm3138980	Bing Bai	1986	\N	actress	tt2063011,tt2952602,tt1533749,tt1424310
+nm3236074	Qixing Aisin-Gioro	\N	\N	actress,soundtrack	tt2460488,tt5649362,tt2672746,tt1754001
+nm3318496	Logan Triplett	\N	\N	cinematographer,camera_department,director	tt3210974,tt1719612,tt7196162,tt4630786
+nm3391237	Peng Lin	1986	\N	actress	tt1319718,tt3672840,tt10452030,tt1424310
+nm3398435	Sung-jun Yoo	\N	\N	actor	tt2016940,tt1424310,tt3672840,tt1319718
+nm3419723	Amber Kuo	1986	\N	actress,soundtrack,camera_department	tt3043630,tt3209682,tt2202471,tt1291125
+nm3419887	Baihe Bai	1984	\N	actress,soundtrack	tt2115388,tt3781476,tt4819514,tt5596352
+nm3434305	Abbi Jacobson	1984	\N	actress,writer,producer	tt1948541,tt2578560,tt3014284,tt4438848
+nm3447142	Bingkun Cao	\N	\N	actor	tt7946836,tt10074486,tt1430751,tt2992152
+nm3450764	David Mimran	\N	\N	producer	tt1423995,tt1291584,tt1634106,tt1255919
+nm3521958	Yung-Charn Liang	\N	\N	editor,editorial_department	tt8156774,tt1854287,tt0202097,tt0200888
+nm3529685	Kumail Nanjiani	1978	\N	actor,writer,producer	tt3014284,tt1489889,tt1055292,tt5462602
+nm3544392	Xuan Hua	\N	\N	writer	tt1478291
+nm3550195	Jiamin Wu	\N	\N	writer	tt1478291
+nm3550491	Weijian Wu	\N	\N	producer	tt3503954,tt1478291,tt5934728
+nm3616667	Baoguang Chen	\N	\N	writer,director	tt6009548,tt1772230,tt1438461
+nm3653250	John Macey	\N	\N	actor,director,writer	tt7668870,tt7375404,tt2520512,tt0452046
+nm3703488	Sergei Bespalov	\N	\N	producer,executive	tt0458481,tt2002718,tt0896872,tt2883512
+nm3736632	Robert Jeffrey	\N	\N	miscellaneous,producer	tt0187033,tt0198792,tt0062936,tt0077277
+nm3737565	Ai-Wei Chen	\N	\N	writer,director,actor	tt0198792,tt0077277,tt0082109,tt0183341
+nm3881333	Show Lo	1979	\N	actor,soundtrack	tt2017561,tt4701660,tt1641680,tt5813366
+nm3885069	Arash Amel	\N	\N	writer,producer,executive	tt4986098,tt2368254,tt6879446,tt10451914
+nm3893921	Hong Kim	\N	\N	animation_department,producer,visual_effects	tt0184005,tt3228088,tt6419292,tt1821658
+nm3924219	Wenwen Han	1995	\N	actress	tt1155076,tt6498818
+nm3968338	Siwei Cui	\N	\N	writer,director	tt9742422,tt0851515,tt5813366,tt8755316
+nm3976375	Sun Liu	\N	\N	writer	tt0068000
+nm4060968	David Liu	\N	\N	director,cinematographer	tt1720267
+nm4061122	Lucy Yang	\N	\N	producer	tt1720267
+nm4062655	Xizeng Xu	\N	\N	writer	tt1720267
+nm4080670	Xingtong Yao	1983	\N	actress	tt4838422,tt1424310,tt10168090,tt1726640
+nm4111443	Andi Campbell-Waite	\N	\N	editor,producer,editorial_department	tt10139778,tt7613210,tt4816552,tt4153972
+nm4318551	Fei Peng	\N	\N	composer,music_department,soundtrack	tt1841701,tt4242158,tt5596352,tt5813366
+nm4366662	Asa Bailey	\N	\N	director,writer,producer	tt3699186,tt4368560,tt6679440,tt2095808
+nm4376119	Shu Luan	\N	\N	soundtrack,composer,music_department	tt6128848,tt0304641,tt1810602,tt2992152
+nm4377915	Haiying Shi	\N	\N	production_designer,art_director	tt1330607,tt2113822,tt6654316,tt1393746
+nm4912321	Bing-Hung Li	\N	\N	actor,assistant_director,stunts	tt3497156,tt0082109,tt0198792,tt0077277
+nm4933115	Xiao Ke	1971	\N	soundtrack,composer,music_department	tt1319718,tt1753976,tt4168512,tt4838340
+nm4938228	Nelson Lee	\N	\N	actor	tt0077277
+nm5022110	Michael J. Wilson	\N	\N	writer	tt9328210,tt0268380,tt0307453,tt3416828
+nm5025819	Ken Lowe	\N	\N	writer	tt0091431
+nm5045313	Teddy Riley	\N	\N	writer	tt4357668,tt2396475,tt4685784,tt2579372
+nm5088245	Tao Yin	\N	\N	actress	tt6363176,tt2189670,tt7133180,tt8638252
+nm5253967	Vash	\N	\N	director,writer,visual_effects	tt4228850,tt1569923,tt7587984
+nm5260718	Jianhong Qi	\N	\N	producer	tt6879446,tt2238032,tt3672840,tt1615160
+nm5262179	Bin Guo	\N	\N	producer	tt1772230
+nm5262456	Guoqing Gu	\N	\N	producer,miscellaneous	tt1772230,tt4392726,tt1847713,tt3408808
+nm5323700	Stasya Knight	\N	\N	actress,director,miscellaneous	tt1018765,tt2916024,tt5124890,tt5893906
+nm5439765	Burns Burns	\N	\N	art_department,production_designer,miscellaneous	tt8110246,tt7349416,tt5503472,tt3748440
+nm5457848	Yan Liu	\N	\N	writer,producer,miscellaneous	tt7436316,tt9844988,tt7188928,tt2599716
+nm5647594	Eyad Hourani	\N	\N	actor	tt6143982,tt4053020,tt2852406,tt10189204
+nm5664649	Charlie Coker	\N	\N	producer	tt2238032
+nm5908926	Wei Tan	\N	\N	writer	tt2599716
+nm5962871	Amadeus Serafini	\N	\N	actor	tt7026270,tt6879446,tt3921180
+nm5987682	Golden Way Creative Group	\N	\N	writer	tt0098019,tt0100966,tt0093413
+nm6039993	Zijian Dong	1993	\N	actor,producer,soundtrack	tt3781476,tt5102396,tt3285802,tt3740778
+nm6051128	Nathaniel Boyd	\N	\N	actor,writer,producer	tt8137658,tt6003476,tt5813366,tt2113822
+nm6085160	Gleb Fetisov	\N	\N	producer,executive	tt5662550,tt3809960,tt2883512,tt6304162
+nm6179961	Aleksandra Maghakyan	\N	\N	composer,music_department	tt3963952,tt5987402,tt2927178,tt9795368
+nm6283683	Shuying Chen	\N	\N	writer	tt2599716
+nm6374541	Ruan Zengsan	\N	\N	cinematographer	tt0205087,tt0453147,tt0205471,tt0124891
+nm6472391	Chao Lv	\N	\N	writer	tt2599716
+nm6590527	Aleks Mikic	\N	\N	actor,production_designer,sound_department	tt10195214,tt4976512,tt4443658,tt5016504
+nm6661769	Mir Sarwar	\N	\N	actor,producer,director	tt3863552,tt3469244,tt5436698,tt6264938
+nm7094216	Miya Muqi	1987	\N	actress	tt9812530,tt9695722,tt4217392,tt4412098
+nm7134395	Na-Na OuYang	2000	\N	actress	tt3505950,tt4788638,tt5813366,tt5425144
+nm7301909	Zitao Huang	1993	\N	actor	tt5992138,tt4687848,tt5801026,tt5991586
+nm7344694	Yixing Zhang	1991	\N	actor,soundtrack	tt5297596,tt4217392,tt7185492,tt8755316
+nm7416348	Ying Gao	\N	\N	writer	tt2599716
+nm7443261	Maofei Zhou	\N	\N	producer,miscellaneous	tt4217392,tt5918090,tt4687848,tt3672840
+nm7443264	Zhao Lei	\N	\N	producer,production_manager	tt7509586,tt4217392,tt1615160,tt3672840
+nm7622097	Dilraba Dilmurat	1992	\N	actress,soundtrack	tt6857276,tt6918180,tt6058496,tt6488862
+nm7705410	Remington D. Donovan	\N	\N	actor,writer	tt4212752,tt6176078
+nm7796669	Disha Patani	1992	\N	actress	tt6932856,tt7721800,tt4169250,tt4217392
+nm7870268	Zhao Zhao	\N	\N	composer,music_department,soundtrack	tt4838422,tt6091936,tt9626928,tt7587984
+nm8054476	Lun Ai	\N	\N	actor	tt9695722,tt7431894,tt9887130,tt10504110
+nm8151982	Duling Chen	1993	\N	actress	tt4545806,tt7645502,tt10098374,tt7326858
+nm8417795	Theodore Riley	\N	\N	writer	tt4685784
+nm8575929	Tiffany Alycia Tong	\N	\N	writer,director,actress	tt6244756
+nm8588931	Ross Evans	\N	\N	writer	tt6176078
+nm8620722	Jon Saunders	\N	\N	writer,director	tt6176078
+nm8691513	He Keke	\N	\N	writer	tt4687848
+nm8694048	Elane Zhong	1993	\N	actress	tt6654316,tt10080086,tt2071628,tt7587984
+nm8706022	Peter Knights	\N	\N	writer	tt6420608
+nm8706023	Andrew Hand	\N	\N	composer	tt6420608
+nm8732473	Jonathan Shen	\N	\N	producer,executive	tt4217392,tt7014404,tt6083972
+nm8732475	Joe Tam	\N	\N	producer,production_manager	tt4217392,tt6879446,tt1615160,tt3672840
+nm9029253	Tim Goodwin	\N	\N	editor	tt6951892
+nm9156873	Jinyan Zhai	\N	\N	composer	tt6971052,tt7176170,tt7587984
+nm9204083	Ole Kirk Christiansen	1891	1958	writer	tt4116284,tt1149317,tt1490017,tt9673190
+nm9204084	Godtfred Kirk Christiansen	1920	1995	writer	tt1149317,tt9673190,tt1490017,tt4116284
+nm9204085	Jens Nygaard Knudsen	\N	\N	writer	tt1490017,tt1149317,tt4116284,tt2620204
+nm9249407	Javier Zhang	\N	\N	producer,miscellaneous	tt4851640,tt5813366,tt3781476,tt5290882
+nm9276991	Erica Xia-Hou	\N	\N	actress,writer	tt5813366
+nm9390775	Boham Liu	\N	\N	writer	tt7587984
+nm9595585	Tiger Xiao	\N	\N	writer	\N
+nm9595586	Sun Siyu	\N	\N	writer	\N
+nm9595587	Zhu Siyi	\N	\N	writer	\N
+nm9639530	Nicole Rodan	\N	\N	producer	\N

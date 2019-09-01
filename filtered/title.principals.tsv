@@ -1,0 +1,942 @@
+tconst	ordering	nconst	category	job	characters
+tt0068000	10	nm2633856	cinematographer	\N	\N
+tt0068000	1	nm0000329	actor	\N	"[""Jackie""]"
+tt0068000	2	nm0803298	actor	\N	"[""Old Master""]"
+tt0068000	3	nm0509599	actor	\N	"[""Chao Ling""]"
+tt0068000	4	nm0790925	actor	\N	"[""Landlord""]"
+tt0068000	5	nm0610786	director	\N	\N
+tt0068000	6	nm0271814	director	\N	\N
+tt0068000	7	nm3976375	writer	\N	\N
+tt0068000	8	nm2142356	producer	executive producer	\N
+tt0068000	9	nm0150894	composer	\N	\N
+tt0070017	10	nm0271814	cinematographer	\N	\N
+tt0070017	1	nm0702666	actor	\N	"[""Tang Jing Fong""]"
+tt0070017	2	nm1228408	actress	\N	"[""Rickshaw Man's Granddaughter""]"
+tt0070017	3	nm2887441	actor	\N	\N
+tt0070017	4	nm0000329	actor	\N	"[""Shi Tzer""]"
+tt0070017	5	nm0610786	director	\N	\N
+tt0070017	6	nm2342385	writer	writer	\N
+tt0070017	7	nm2342339	producer	producer	\N
+tt0070017	8	nm2809002	producer	producer	\N
+tt0070017	9	nm0455098	composer	\N	\N
+tt0070049	1	nm0000329	actor	\N	"[""Xiao Liu""]"
+tt0070049	2	nm0791461	actor	\N	"[""Brothel client""]"
+tt0070049	3	nm0155572	actor	\N	\N
+tt0070049	4	nm0512696	actress	\N	\N
+tt0070049	5	nm0497379	director	\N	\N
+tt0070049	6	nm0788411	producer	producer	\N
+tt0070049	7	nm0159450	composer	\N	\N
+tt0070049	8	nm1163787	cinematographer	\N	\N
+tt0070049	9	nm0156963	editor	\N	\N
+tt0073694	10	nm0950621	editor	\N	\N
+tt0073694	1	nm0848903	actor	\N	"[""Yun Fei""]"
+tt0073694	2	nm0862875	actor	\N	"[""Shih Shao-Feng""]"
+tt0073694	3	nm0000329	actor	\N	"[""Tan Feng""]"
+tt0073694	4	nm1814409	actress	\N	"[""Autumn Moon""]"
+tt0073694	5	nm0000247	director	\N	\N
+tt0073694	6	nm0159494	producer	producer	\N
+tt0073694	7	nm0345150	composer	\N	\N
+tt0073694	8	nm0508667	cinematographer	\N	\N
+tt0073694	9	nm0151649	editor	\N	\N
+tt0074747	10	nm0393207	editor	\N	\N
+tt0074747	1	nm0000329	actor	\N	"[""Hua Wu Bin""]"
+tt0074747	2	nm0911093	actor	\N	"[""Mei Xing He""]"
+tt0074747	3	nm2313503	actress	\N	\N
+tt0074747	4	nm0950528	actor	\N	\N
+tt0074747	5	nm0516344	director	\N	\N
+tt0074747	6	nm0473325	writer	screenplay	\N
+tt0074747	7	nm0159450	composer	\N	\N
+tt0074747	8	nm0155185	cinematographer	\N	\N
+tt0074747	9	nm0150843	cinematographer	\N	\N
+tt0075201	10	nm0399077	editor	\N	\N
+tt0075201	1	nm0000329	actor	\N	\N
+tt0075201	2	nm0432005	actress	\N	\N
+tt0075201	3	nm0436340	actor	\N	\N
+tt0075201	4	nm0151793	actress	\N	\N
+tt0075201	5	nm0155179	director	\N	\N
+tt0075201	6	nm0436339	writer	\N	\N
+tt0075201	7	nm0516344	producer	producer	\N
+tt0075201	8	nm0159450	composer	\N	\N
+tt0075201	9	nm0150843	cinematographer	\N	\N
+tt0075439	10	nm0150843	cinematographer	\N	\N
+tt0075439	1	nm0000329	actor	\N	"[""A Lung""]"
+tt0075439	2	nm0583963	actress	\N	\N
+tt0075439	3	nm0151080	actor	\N	\N
+tt0075439	4	nm0156460	actor	\N	\N
+tt0075439	5	nm0516344	director	\N	\N
+tt0075439	6	nm0659015	writer	\N	\N
+tt0075439	7	nm0508330	producer	producer	\N
+tt0075439	8	nm0155449	composer	\N	\N
+tt0075439	9	nm0161161	cinematographer	\N	\N
+tt0076227	10	nm0160877	production_designer	\N	\N
+tt0076227	1	nm0000329	actor	\N	"[""Lei Shao-feng""]"
+tt0076227	2	nm0271799	actress	\N	"[""Ding Can-ren""]"
+tt0076227	3	nm0950528	actor	\N	"[""Qian-qian""]"
+tt0076227	4	nm0791473	actor	\N	"[""Jin-chuan""]"
+tt0076227	5	nm0516344	director	\N	\N
+tt0076227	6	nm0473325	writer	\N	\N
+tt0076227	7	nm0155219	composer	\N	\N
+tt0076227	8	nm0150843	cinematographer	\N	\N
+tt0076227	9	nm0393207	editor	\N	\N
+tt0077277	10	nm0000329	actor	\N	"[""General Kawasaki's Aide""]"
+tt0077277	1	nm0398969	actor	\N	"[""Lee Ching-Lung""]"
+tt0077277	2	nm4912321	actor	\N	\N
+tt0077277	3	nm4938228	actor	\N	\N
+tt0077277	4	nm1163187	actor	\N	"[""General Kawasaki""]"
+tt0077277	5	nm0620596	director	\N	\N
+tt0077277	6	nm3737565	writer	\N	\N
+tt0077277	7	nm3736632	producer	producer	\N
+tt0077277	8	nm0530871	cinematographer	\N	\N
+tt0077277	9	nm0156906	editor	\N	\N
+tt0077541	1	nm0000329	actor	\N	"[""Lord Ting Chung""]"
+tt0077541	2	nm2598556	actor	\N	\N
+tt0077541	3	nm1595732	actor	\N	\N
+tt0077541	4	nm0266747	actress	\N	\N
+tt0077541	5	nm0516344	director	\N	\N
+tt0077541	6	nm0473325	writer	writer	\N
+tt0077541	7	nm0155449	composer	\N	\N
+tt0077541	8	nm0151870	cinematographer	\N	\N
+tt0077541	9	nm0150995	editor	\N	\N
+tt0078128	1	nm0000329	actor	\N	"[""Yi-Lang""]"
+tt0078128	2	nm3086858	actor	\N	\N
+tt0078128	3	nm2955220	actor	\N	\N
+tt0078128	4	nm3086267	actor	\N	\N
+tt0078128	5	nm0516344	director	\N	\N
+tt0078128	6	nm0659015	writer	writer	\N
+tt0078128	7	nm0150894	composer	\N	\N
+tt0078128	8	nm0151870	cinematographer	\N	\N
+tt0078128	9	nm3521958	editor	\N	\N
+tt0078251	10	nm0399077	editor	\N	\N
+tt0078251	1	nm0000329	actor	\N	"[""Hsu Yin-Fung""]"
+tt0078251	2	nm0583963	actress	\N	"[""Tang Pin-Er""]"
+tt0078251	3	nm0155184	actress	\N	\N
+tt0078251	4	nm3014268	actor	\N	\N
+tt0078251	5	nm0155179	director	\N	\N
+tt0078251	6	nm0398786	writer	screenplay	\N
+tt0078251	7	nm0508330	producer	producer	\N
+tt0078251	8	nm0159450	composer	\N	\N
+tt0078251	9	nm0150843	cinematographer	\N	\N
+tt0078252	10	nm0874619	writer	screenplay	\N
+tt0078252	1	nm0000329	actor	\N	"[""Chien Fu""]"
+tt0078252	2	nm0803298	actor	\N	"[""Grandmaster Pai Cheng-Tien""]"
+tt0078252	3	nm0399007	actor	\N	"[""Lord Sheng Kuan""]"
+tt0078252	4	nm0790925	actor	\N	"[""Teacher Li""]"
+tt0078252	5	nm0950759	director	\N	\N
+tt0078252	6	nm2359321	writer	writer	\N
+tt0078252	7	nm2362852	writer	writer	\N
+tt0078252	8	nm0519731	writer	writer	\N
+tt0078252	9	nm0628838	writer	screenplay	\N
+tt0079315	1	nm0000329	actor	\N	"[""Shing Lung""]"
+tt0079315	2	nm0862875	actor	\N	"[""Grandpa""]"
+tt0079315	3	nm0790925	actor	\N	"[""The Coffin Seller""]"
+tt0079315	4	nm0150921	actor	\N	"[""The Unicorn""]"
+tt0079315	5	nm0516344	writer	\N	\N
+tt0079315	6	nm0508330	producer	producer	\N
+tt0079315	7	nm0150894	composer	\N	\N
+tt0079315	8	nm0151870	cinematographer	\N	\N
+tt0079315	9	nm0150995	editor	\N	\N
+tt0079484	10	nm0041251	actress	\N	"[""Mistress""]"
+tt0079484	1	nm0000329	actor	\N	"[""Tong Huo-wan""]"
+tt0079484	2	nm0583963	actress	\N	"[""Mung-laan""]"
+tt0079484	3	nm0862875	actor	\N	"[""Fong-gong""]"
+tt0079484	4	nm2079044	actor	\N	"[""Chung Cau-ping""]"
+tt0079484	5	nm0516344	director	\N	\N
+tt0079484	6	nm3091923	writer	screenplay	\N
+tt0079484	7	nm0150894	composer	\N	\N
+tt0079484	8	nm1080906	actor	\N	"[""Ngai Cong-long""]"
+tt0079484	9	nm2084894	actor	\N	"[""Chung Gim-gwan""]"
+tt0079509	10	nm0508591	actor	\N	"[""Stone""]"
+tt0079509	1	nm0000329	actor	\N	"[""Sammy""]"
+tt0079509	2	nm0510857	actress	\N	"[""Lily""]"
+tt0079509	3	nm0911093	actor	\N	"[""Don Wen""]"
+tt0079509	4	nm0839003	actor	\N	"[""Old Sun""]"
+tt0079509	5	nm0160900	director	\N	\N
+tt0079509	6	nm2502938	writer	screenplay	\N
+tt0079509	7	nm0948044	producer	producer	\N
+tt0079509	8	nm0915452	composer	\N	\N
+tt0079509	9	nm0432531	actor	\N	"[""General""]"
+tt0080179	10	nm0398861	editor	\N	\N
+tt0080179	1	nm0000329	actor	\N	"[""Wong Fei-Hung""]"
+tt0080179	2	nm0803298	actor	\N	"[""Beggar So""]"
+tt0080179	3	nm0399007	actor	\N	"[""Jim Ti-Sam""]"
+tt0080179	4	nm0790925	actor	\N	"[""Ko Choi""]"
+tt0080179	5	nm0950759	director	\N	\N
+tt0080179	6	nm0519731	writer	writer	\N
+tt0080179	7	nm0628838	writer	writer	\N
+tt0080179	8	nm0159450	composer	\N	\N
+tt0080179	9	nm0151714	cinematographer	\N	\N
+tt0080436	10	nm0151649	editor	\N	\N
+tt0080436	1	nm0000329	actor	\N	"[""Jerry Kwan""]"
+tt0080436	2	nm0213374	actress	\N	"[""Nancy""]"
+tt0080436	3	nm0001207	actor	\N	"[""Dominici""]"
+tt0080436	4	nm0538683	actor	\N	"[""Herbert""]"
+tt0080436	5	nm0167195	director	\N	\N
+tt0080436	6	nm0918518	writer	story	\N
+tt0080436	7	nm0159494	producer	producer	\N
+tt0080436	8	nm0006277	composer	\N	\N
+tt0080436	9	nm0422271	cinematographer	director of photography	\N
+tt0080623	10	nm0150995	editor	\N	\N
+tt0080623	1	nm0000329	actor	\N	"[""Jiang""]"
+tt0080623	2	nm0432005	actress	\N	"[""Fong""]"
+tt0080623	3	nm0155184	actress	\N	"[""Chin Ping Lu""]"
+tt0080623	4	nm3086858	actor	\N	\N
+tt0080623	5	nm0155179	director	\N	\N
+tt0080623	6	nm2601077	writer	\N	\N
+tt0080623	7	nm0516344	producer	producer	\N
+tt0080623	8	nm0150894	composer	\N	\N
+tt0080623	9	nm0155185	cinematographer	\N	\N
+tt0081499	10	nm0155185	cinematographer	\N	\N
+tt0081499	1	nm0000329	actor	\N	"[""Dragon""]"
+tt0081499	2	nm0670481	actor	\N	"[""Tiger""]"
+tt0081499	3	nm0950707	actor	\N	"[""Sang Kung's Son"",""Fourth Brother""]"
+tt0081499	4	nm0497763	actress	\N	"[""Sang Kung's Daughter""]"
+tt0081499	5	nm0490626	writer	\N	\N
+tt0081499	6	nm1146362	writer	\N	\N
+tt0081499	7	nm0516343	writer	\N	\N
+tt0081499	8	nm0159494	producer	producer	\N
+tt0081499	9	nm0387337	producer	producer	\N
+tt0084266	10	nm0151068	composer	\N	\N
+tt0084266	1	nm0000329	actor	\N	"[""Dragon""]"
+tt0084266	2	nm0550301	actor	\N	"[""Cowboy""]"
+tt0084266	3	nm0151155	actor	\N	"[""Tiger""]"
+tt0084266	4	nm0948026	actress	\N	"[""Alice""]"
+tt0084266	5	nm0535320	writer	english adaptation	\N
+tt0084266	6	nm0849282	writer	\N	\N
+tt0084266	7	nm0938944	writer	\N	\N
+tt0084266	8	nm0387337	producer	producer	\N
+tt0084266	9	nm0150894	composer	\N	\N
+tt0085127	10	nm0156601	cinematographer	\N	\N
+tt0085127	1	nm0000329	actor	\N	"[""Sergeant Dragon Ma Yue Lung""]"
+tt0085127	2	nm0005033	actor	\N	"[""Fei""]"
+tt0085127	3	nm0950707	actor	\N	"[""Captain Tzu""]"
+tt0085127	4	nm0526714	actor	\N	"[""Lor Sam Pau""]"
+tt0085127	5	nm0535320	writer	english adaptation	\N
+tt0085127	6	nm0849282	writer	writer	\N
+tt0085127	7	nm0387337	producer	producer	\N
+tt0085127	8	nm0499995	composer	\N	\N
+tt0085127	9	nm0729374	composer	\N	\N
+tt0085864	10	nm0473928	actor	\N	"[""Earth Devil""]"
+tt0085864	1	nm0000329	actor	\N	"[""Chan Lung""]"
+tt0085864	2	nm0790925	actor	\N	"[""Jaws Four""]"
+tt0085864	3	nm0862875	actor	\N	"[""Old Chen""]"
+tt0085864	4	nm0906402	actor	\N	"[""Ah Tung""]"
+tt0085864	5	nm0150839	director	\N	\N
+tt0085864	6	nm0516344	writer	\N	\N
+tt0085864	7	nm1662916	cinematographer	\N	\N
+tt0085864	8	nm0150995	editor	\N	\N
+tt0085864	9	nm0945188	actor	\N	"[""Heaven and Earth Society Leader""]"
+tt0086605	10	nm0490605	cinematographer	\N	\N
+tt0086605	1	nm0005033	actor	\N	"[""Teapot""]"
+tt0086605	2	nm0000329	actor	\N	"[""CID 07""]"
+tt0086605	3	nm0762632	actor	\N	"[""Curly""]"
+tt0086605	4	nm0628827	actor	\N	"[""Exhaust Pipe""]"
+tt0086605	5	nm0938944	writer	story	\N
+tt0086605	6	nm0159494	producer	producer	\N
+tt0086605	7	nm0387337	producer	producer	\N
+tt0086605	8	nm0044951	composer	\N	\N
+tt0086605	9	nm0150894	composer	\N	\N
+tt0087578	10	nm0156601	cinematographer	\N	\N
+tt0087578	1	nm0000329	actor	\N	"[""Thomas""]"
+tt0087578	2	nm0950707	actor	\N	"[""David""]"
+tt0087578	3	nm0005033	actor	\N	"[""Moby""]"
+tt0087578	4	nm0882054	actor	\N	"[""Mondale's Henchman""]"
+tt0087578	5	nm0849282	writer	written by	\N
+tt0087578	6	nm1471273	writer	written by	\N
+tt0087578	7	nm0387337	producer	producer	\N
+tt0087578	8	nm0044951	composer	\N	\N
+tt0087578	9	nm0482697	composer	\N	\N
+tt0089374	10	nm0006254	composer	\N	\N
+tt0089374	1	nm0000329	actor	\N	"[""Chan Ka Kui""]"
+tt0089374	2	nm0001041	actress	\N	"[""May""]"
+tt0089374	3	nm0510857	actress	\N	"[""Selina Fong""]"
+tt0089374	4	nm0482647	actor	\N	"[""Supt. Raymond Li""]"
+tt0089374	5	nm0155179	director	executive director	\N
+tt0089374	6	nm0849282	writer	\N	\N
+tt0089374	7	nm0387337	producer	producer	\N
+tt0089374	8	nm0060311	composer	\N	\N
+tt0089374	9	nm0499995	composer	\N	\N
+tt0089847	10	nm0410419	cinematographer	\N	\N
+tt0089847	1	nm0000329	actor	\N	"[""Billy Wong""]"
+tt0089847	2	nm0000732	actor	\N	"[""Danny Garoni""]"
+tt0089847	3	nm0018726	actor	\N	"[""Gang Leader""]"
+tt0089847	4	nm0036663	actor	\N	"[""Police Captain""]"
+tt0089847	5	nm0322785	director	\N	\N
+tt0089847	6	nm1146362	writer	Hong Kong version	\N
+tt0089847	7	nm0150858	producer	producer	\N
+tt0089847	8	nm0006322	composer	\N	\N
+tt0089847	9	nm0156601	cinematographer	\N	\N
+tt0091427	10	nm0938939	cinematographer	\N	\N
+tt0091427	1	nm0000329	actor	\N	"[""Ted"",""Tat Fung""]"
+tt0091427	2	nm0005033	actor	\N	"[""Danny"",""Dodo Fung""]"
+tt0091427	3	nm0160823	actress	\N	"[""Jenny""]"
+tt0091427	4	nm0389885	actor	\N	"[""Yan"",""Ian""]"
+tt0091427	5	nm0150897	director	second director	\N
+tt0091427	6	nm0938944	writer	\N	\N
+tt0091427	7	nm0482585	producer	producer	\N
+tt0091427	8	nm0943138	producer	producer	\N
+tt0091427	9	nm0482657	composer	\N	\N
+tt0091431	10	nm0791949	writer	screenplay	\N
+tt0091431	1	nm0000329	actor	\N	"[""Asian Hawk""]"
+tt0091431	2	nm0848355	actor	\N	"[""Alan""]"
+tt0091431	3	nm0263851	actress	\N	"[""Lorelei""]"
+tt0091431	4	nm0286499	actress	\N	"[""May""]"
+tt0091431	5	nm0874676	director	\N	\N
+tt0091431	6	nm0938944	writer	original story	\N
+tt0091431	7	nm0849282	writer	screenplay	\N
+tt0091431	8	nm1022277	writer	screenplay	\N
+tt0091431	9	nm5025819	writer	screenplay	\N
+tt0092501	10	nm0499995	composer	\N	\N
+tt0092501	1	nm0000329	actor	\N	"[""Sergeant Dragon Ma Yue Lung""]"
+tt0092501	2	nm0001041	actress	\N	"[""Yesan""]"
+tt0092501	3	nm0263851	actress	\N	"[""Miss Pak""]"
+tt0092501	4	nm0490500	actress	\N	"[""Beattie""]"
+tt0092501	5	nm0535320	writer	english adaptation	\N
+tt0092501	6	nm0849282	writer	\N	\N
+tt0092501	7	nm0950568	writer	dialogue	\N
+tt0092501	8	nm0387337	producer	producer	\N
+tt0092501	9	nm0482595	producer	producer	\N
+tt0093015	10	nm0793930	composer	\N	\N
+tt0093015	1	nm0000329	actor	\N	"[""Jackie Lung""]"
+tt0093015	2	nm0005033	actor	\N	"[""Luke Wong Fei-hung""]"
+tt0093015	3	nm0950707	actor	\N	"[""Timothy Tung Tak-Biao""]"
+tt0093015	4	nm0947807	actress	\N	"[""Nancy Lee""]"
+tt0093015	5	nm0477035	director	co-director	\N
+tt0093015	6	nm0150906	writer	original story	\N
+tt0093015	7	nm0504935	writer	original story	\N
+tt0093015	8	nm1022277	writer	screenplay	\N
+tt0093015	9	nm0387337	producer	producer	\N
+tt0095403	10	nm0482697	composer	\N	\N
+tt0095403	1	nm0000329	actor	\N	"[""Chan Ka Kui""]"
+tt0095403	2	nm0001041	actress	\N	"[""May""]"
+tt0095403	3	nm0482647	actor	\N	"[""Supt. Raymond Li""]"
+tt0095403	4	nm0876603	actor	\N	"[""Bill Wong""]"
+tt0095403	5	nm0165560	writer	\N	\N
+tt0095403	6	nm0849282	writer	writer	\N
+tt0095403	7	nm0387337	producer	producer	\N
+tt0095403	8	nm2387337	composer	\N	\N
+tt0095403	9	nm0006254	composer	\N	\N
+tt0098019	10	nm0876223	writer	\N	\N
+tt0098019	1	nm0000329	actor	\N	"[""'Charlie' Cheng Wah Kuo""]"
+tt0098019	2	nm0611315	actress	\N	"[""Luming Yang""]"
+tt0098019	3	nm0013833	actress	\N	"[""Madam Kao""]"
+tt0098019	4	nm0398801	actor	\N	"[""Tiger""]"
+tt0098019	5	nm5987682	writer	\N	\N
+tt0098019	6	nm0437900	writer	\N	\N
+tt0098019	7	nm0728307	writer	\N	\N
+tt0098019	8	nm0750357	writer	\N	\N
+tt0098019	9	nm0849282	writer	written by	\N
+tt0099558	10	nm0938939	cinematographer	\N	\N
+tt0099558	1	nm0000329	actor	\N	"[""Asian Hawk"",""Condor"",""Jackie""]"
+tt0099558	2	nm0155546	actress	\N	"[""Ada""]"
+tt0099558	3	nm0167938	actress	\N	"[""Elsa""]"
+tt0099558	4	nm0407453	actress	\N	"[""Momoko""]"
+tt0099558	5	nm0849282	writer	\N	\N
+tt0099558	6	nm0387337	producer	producer	\N
+tt0099558	7	nm0044951	composer	\N	\N
+tt0099558	8	nm0006059	composer	\N	\N
+tt0099558	9	nm0704979	composer	\N	\N
+tt0099812	10	nm0398801	producer	producer	\N
+tt0099812	1	nm0000329	actor	\N	"[""Lung"",""Steve Tong""]"
+tt0099812	2	nm0490489	actor	\N	"[""Lau"",""Boss Lee""]"
+tt0099812	3	nm0005033	actor	\N	"[""Fatty Liu Hsi Chia"",""John Liu""]"
+tt0099812	4	nm0504899	actor	\N	"[""Wei Wang"",""Andy Lau""]"
+tt0099812	5	nm0160900	director	\N	\N
+tt0099812	6	nm0297133	writer	\N	\N
+tt0099812	7	nm0611344	writer	english version	\N
+tt0099812	8	nm0947318	writer	\N	\N
+tt0099812	9	nm0155411	producer	producer	\N
+tt0103950	1	nm0000329	actor	\N	"[""Ryu Saeba""]"
+tt0103950	2	nm0636280	actor	\N	"[""Col. MacDonald""]"
+tt0103950	3	nm0939153	actress	\N	"[""Kaori Makimura"",""Carrie""]"
+tt0103950	4	nm0331822	actress	\N	"[""Shizuko Imamura"",""Kyoko""]"
+tt0103950	5	nm0939147	director	\N	\N
+tt0103950	6	nm0405783	writer	comic	\N
+tt0103950	7	nm0482585	producer	producer	\N
+tt0103950	8	nm0246738	composer	\N	\N
+tt0103950	9	nm0399074	composer	\N	\N
+tt0104558	10	nm0156809	composer	\N	\N
+tt0104558	1	nm0000329	actor	\N	"[""Insp. Chan Ka Kui""]"
+tt0104558	2	nm0000706	actress	\N	"[""Insp. Jessica Yang, Director of INTERPOL""]"
+tt0104558	3	nm0001041	actress	\N	"[""May""]"
+tt0104558	4	nm0874684	actor	\N	"[""Chaibat""]"
+tt0104558	5	nm0867262	director	\N	\N
+tt0104558	6	nm0849282	writer	characters	\N
+tt0104558	7	nm0530853	writer	written by	\N
+tt0104558	8	nm0947177	writer	written by	\N
+tt0104558	9	nm0151162	producer	producer	\N
+tt0105399	10	nm0474373	writer	english adaptation	\N
+tt0105399	1	nm0000329	actor	\N	"[""Ma Yau"",""Die Hard""]"
+tt0105399	2	nm0001041	actress	\N	"[""Barbara""]"
+tt0105399	3	nm0477108	actor	\N	"[""Tarzan (Tyson in US Version)""]"
+tt0105399	4	nm0399074	actor	\N	"[""Mr. Ma - Twins' Father""]"
+tt0105399	5	nm0482681	director	\N	\N
+tt0105399	6	nm0007139	director	\N	\N
+tt0105399	7	nm0938944	writer	\N	\N
+tt0105399	8	nm0156432	writer	\N	\N
+tt0105399	9	nm0939415	writer	\N	\N
+tt0108656	10	nm0151125	writer	screenplay	\N
+tt0108656	1	nm0000329	actor	\N	"[""Inspector Eddie Chan""]"
+tt0108656	2	nm0155587	actor	\N	"[""Detective Hung Ting-Bong""]"
+tt0108656	3	nm0437630	actor	\N	"[""Wong Yat-Fei""]"
+tt0108656	4	nm0628739	actress	\N	"[""Gaga""]"
+tt0108656	5	nm0939202	director	\N	\N
+tt0108656	6	nm0161159	writer	screenplay	\N
+tt0108656	7	nm0151013	writer	screenplay	\N
+tt0108656	8	nm0156511	writer	screenplay	\N
+tt0108656	9	nm0156451	writer	screenplay	\N
+tt0111512	10	nm0874676	producer	producer	\N
+tt0111512	1	nm0000329	actor	\N	"[""Wong Fei-hung""]"
+tt0111512	2	nm0657064	actor	\N	"[""Henry""]"
+tt0111512	3	nm0862479	actor	\N	"[""Wong Kei-ying, Wong's Father""]"
+tt0111512	4	nm0611315	actress	\N	"[""Ling - Wong's Step-Mother""]"
+tt0111512	5	nm0514906	director	\N	\N
+tt0111512	6	nm0849282	writer	screenplay	\N
+tt0111512	7	nm0867246	writer	screenplay	\N
+tt0111512	8	nm0950699	writer	screenplay	\N
+tt0111512	9	nm0212933	writer	english adaptation	\N
+tt0113326	10	nm0910996	composer	\N	\N
+tt0113326	1	nm0000329	actor	\N	"[""Keung""]"
+tt0113326	2	nm0611315	actress	\N	"[""Elaine""]"
+tt0113326	3	nm0948123	actress	\N	"[""Nancy""]"
+tt0113326	4	nm0876603	actor	\N	"[""Uncle Bill""]"
+tt0113326	5	nm0867262	director	\N	\N
+tt0113326	6	nm0849282	writer	written by	\N
+tt0113326	7	nm0530853	writer	written by	\N
+tt0113326	8	nm0876602	producer	producer	\N
+tt0113326	9	nm0006254	composer	\N	\N
+tt0114126	10	nm0482585	producer	producer	\N
+tt0114126	1	nm0000329	actor	\N	"[""Chan Foh To""]"
+tt0114126	2	nm0950703	actress	\N	"[""Amy Yip""]"
+tt0114126	3	nm0939255	actor	\N	"[""Steve Cannon""]"
+tt0114126	4	nm0629993	actor	\N	"[""Warner 'Cougar' Kaugman""]"
+tt0114126	5	nm0150906	director	\N	\N
+tt0114126	6	nm0150916	writer	\N	\N
+tt0114126	7	nm0960722	writer	english dialogue	\N
+tt0114126	8	nm0165560	writer	\N	\N
+tt0114126	9	nm0477241	writer	\N	\N
+tt0116704	10	nm0876602	producer	producer	\N
+tt0116704	1	nm0000329	actor	\N	"[""Insp. Chan Ka Kui""]"
+tt0116704	2	nm0514944	actor	\N	"[""Jackson Tsui""]"
+tt0116704	3	nm0938925	actress	\N	"[""Annie Tsui""]"
+tt0116704	4	nm0876603	actor	\N	"[""'Uncle' Bill Wong""]"
+tt0116704	5	nm0867262	director	\N	\N
+tt0116704	6	nm0578128	writer	\N	\N
+tt0116704	7	nm0867225	writer	\N	\N
+tt0116704	8	nm0870802	writer	\N	\N
+tt0116704	9	nm0159494	producer	producer	\N
+tt0117786	10	nm0401180	composer	\N	\N
+tt0117786	1	nm0000329	actor	\N	"[""Jackie""]"
+tt0117786	2	nm0636280	actor	\N	"[""Giancarlo""]"
+tt0117786	3	nm0497901	actress	\N	"[""Miki""]"
+tt0117786	4	nm0572963	actress	\N	"[""Lakisha""]"
+tt0117786	5	nm0005033	director	\N	\N
+tt0117786	6	nm0530853	writer	screenplay	\N
+tt0117786	7	nm0849282	writer	screenplay	\N
+tt0117786	8	nm0482585	producer	executive producer	\N
+tt0117786	9	nm0387337	producer	executive producer	\N
+tt0120812	10	nm0765306	producer	producer	\N
+tt0120812	1	nm0000329	actor	\N	"[""Lee""]"
+tt0120812	2	nm0000676	actor	\N	"[""Carter""]"
+tt0120812	3	nm0504962	actor	\N	"[""Sang""]"
+tt0120812	4	nm0929489	actor	\N	"[""Griffin"",""Juntao""]"
+tt0120812	5	nm0711840	director	\N	\N
+tt0120812	6	nm0482780	writer	story	\N
+tt0120812	7	nm0467942	writer	screenplay	\N
+tt0120812	8	nm0083696	producer	producer	\N
+tt0120812	9	nm0322802	producer	producer	\N
+tt0124891	1	nm0398934	actress	\N	"[""Chin Hsiang Lien""]"
+tt0124891	2	nm0945805	actor	\N	"[""Judge Pao Ching Tien""]"
+tt0124891	3	nm0477093	actor	\N	"[""Chen Shi Mei""]"
+tt0124891	4	nm0000329	actor	\N	"[""Tung Ge (Juvenile)""]"
+tt0124891	5	nm1906532	director	\N	\N
+tt0124891	6	nm0950964	producer	producer	\N
+tt0124891	7	nm1842626	composer	\N	\N
+tt0124891	8	nm6374541	cinematographer	\N	\N
+tt0124891	9	nm0910855	editor	\N	\N
+tt0127357	10	nm0690940	cinematographer	\N	\N
+tt0127357	1	nm0000329	actor	\N	"[""Who Am I""]"
+tt0127357	2	nm0274255	actress	\N	"[""Christine Stark""]"
+tt0127357	3	nm0945457	actress	\N	"[""Yuki""]"
+tt0127357	4	nm0806822	actor	\N	"[""Morgan""]"
+tt0127357	5	nm0150802	director	\N	\N
+tt0127357	6	nm0151113	writer	writer	\N
+tt0127357	7	nm0721825	writer	writer	\N
+tt0127357	8	nm0876602	producer	producer	\N
+tt0127357	9	nm0910996	composer	\N	\N
+tt0184526	10	nm0156524	cinematographer	\N	\N
+tt0184526	1	nm0000329	actor	\N	"[""C.N. Chan""]"
+tt0184526	2	nm0795517	actress	\N	"[""Bu""]"
+tt0184526	3	nm0504897	actor	\N	"[""Albert""]"
+tt0184526	4	nm0154235	actor	\N	"[""L.W. Lo""]"
+tt0184526	5	nm0463674	director	\N	\N
+tt0184526	6	nm0387306	writer	story	\N
+tt0184526	7	nm0516352	writer	writer	\N
+tt0184526	8	nm0159494	producer	producer	\N
+tt0184526	9	nm0939022	composer	\N	\N
+tt0184894	10	nm0322802	producer	producer	\N
+tt0184894	1	nm0000329	actor	\N	"[""Chon Wang""]"
+tt0184894	2	nm0005562	actor	\N	"[""Roy O'Bannon""]"
+tt0184894	3	nm0005154	actress	\N	"[""Princess Pei Pei""]"
+tt0184894	4	nm0581266	actress	\N	"[""Indian Wife""]"
+tt0184894	5	nm0223359	director	\N	\N
+tt0184894	6	nm0587692	writer	written by	\N
+tt0184894	7	nm0332184	writer	written by	\N
+tt0184894	8	nm0053388	producer	producer	\N
+tt0184894	9	nm0083696	producer	producer	\N
+tt0185591	10	nm1095832	actor	\N	\N
+tt0185591	1	nm0000329	actor	\N	"[""Secretary Chen""]"
+tt0185591	2	nm2888417	actress	\N	\N
+tt0185591	3	nm2704921	actress	\N	\N
+tt0185591	4	nm0684134	actress	\N	\N
+tt0185591	5	nm0610786	director	\N	\N
+tt0185591	6	nm0443753	writer	\N	\N
+tt0185591	7	nm2342339	composer	\N	\N
+tt0185591	8	nm1138888	actor	\N	\N
+tt0185591	9	nm0620699	actor	\N	\N
+tt0266915	10	nm0765306	producer	producer	\N
+tt0266915	1	nm0000329	actor	\N	"[""Lee""]"
+tt0266915	2	nm0000676	actor	\N	"[""Carter""]"
+tt0266915	3	nm0518821	actor	\N	"[""Ricky Tan""]"
+tt0266915	4	nm0955471	actress	\N	"[""Hu Li""]"
+tt0266915	5	nm0711840	director	\N	\N
+tt0266915	6	nm0482780	writer	characters	\N
+tt0266915	7	nm0622288	writer	written by	\N
+tt0266915	8	nm0083696	producer	producer	\N
+tt0266915	9	nm0322802	producer	producer	\N
+tt0271946	10	nm0910800	composer	\N	\N
+tt0271946	1	nm0000329	actor	\N	"[""Buck Yuen""]"
+tt0271946	2	nm0453608	actress	\N	"[""Carmen Wong""]"
+tt0271946	3	nm0874676	actor	\N	"[""Many Liu""]"
+tt0271946	4	nm0398852	actress	\N	"[""Yong""]"
+tt0271946	5	nm0151125	director	\N	\N
+tt0271946	6	nm0212933	writer	English adaptation	\N
+tt0271946	7	nm0387306	writer	\N	\N
+tt0271946	8	nm0159494	producer	producer	\N
+tt0271946	9	nm0436348	composer	\N	\N
+tt0288045	10	nm1365846	composer	\N	\N
+tt0288045	1	nm0000329	actor	\N	"[""Eddie Yang""]"
+tt0288045	2	nm0262968	actor	\N	"[""Arthur Watson""]"
+tt0288045	3	nm0001231	actress	\N	"[""Nicole James""]"
+tt0288045	4	nm0001696	actor	\N	"[""Snakehead""]"
+tt0288045	5	nm0150906	director	\N	\N
+tt0288045	6	nm0156434	writer	story and original characters	\N
+tt0288045	7	nm1424658	writer	written by	\N
+tt0288045	8	nm0923932	writer	written by	\N
+tt0288045	9	nm0004214	writer	written by	\N
+tt0290095	10	nm0775443	producer	producer	\N
+tt0290095	1	nm0000329	actor	\N	"[""Jimmy Tong""]"
+tt0290095	2	nm0001349	actress	\N	"[""Del Blaine""]"
+tt0290095	3	nm0005042	actor	\N	"[""Clark Devlin""]"
+tt0290095	4	nm0000529	actress	\N	"[""Steena""]"
+tt0290095	5	nm1019493	director	\N	\N
+tt0290095	6	nm0006534	writer	story	\N
+tt0290095	7	nm0542062	writer	story	\N
+tt0290095	8	nm5022110	writer	story	\N
+tt0290095	9	nm0498775	writer	screenplay	\N
+tt0293564	10	nm0322802	producer	producer	\N
+tt0293564	1	nm0000329	actor	\N	"[""Lee""]"
+tt0293564	2	nm0000676	actor	\N	"[""Carter""]"
+tt0293564	3	nm0001884	actor	\N	"[""Reynard""]"
+tt0293564	4	nm0760796	actor	\N	"[""Kenji""]"
+tt0293564	5	nm0711840	director	\N	\N
+tt0293564	6	nm0622288	writer	written by	\N
+tt0293564	7	nm0482780	writer	characters	\N
+tt0293564	8	nm0083696	producer	producer	\N
+tt0293564	9	nm0002397	producer	producer	\N
+tt0300471	10	nm0322802	producer	producer	\N
+tt0300471	1	nm0000329	actor	\N	"[""Chon Wang""]"
+tt0300471	2	nm0005562	actor	\N	"[""Roy O'Bannon""]"
+tt0300471	3	nm0939056	actress	\N	"[""Chon Lin""]"
+tt0300471	4	nm1093951	actor	\N	"[""Charlie""]"
+tt0300471	5	nm0229694	director	\N	\N
+tt0300471	6	nm0332184	writer	characters	\N
+tt0300471	7	nm0587692	writer	characters	\N
+tt0300471	8	nm0053388	producer	producer	\N
+tt0300471	9	nm0083696	producer	producer	\N
+tt0327437	10	nm0045927	producer	producer	\N
+tt0327437	1	nm0000329	actor	\N	"[""Passepartout"",""Lau Xing""]"
+tt0327437	2	nm0176869	actor	\N	"[""Phileas Fogg""]"
+tt0327437	3	nm0000980	actor	\N	"[""Lord Kelvin""]"
+tt0327437	4	nm0000870	actress	\N	"[""Queen Victoria""]"
+tt0327437	5	nm0178997	director	\N	\N
+tt0327437	6	nm0894523	writer	"novel ""Le Tour du monde en quatre-vingts jours"""	\N
+tt0327437	7	nm0864435	writer	screenplay	\N
+tt0327437	8	nm0073026	writer	screenplay	\N
+tt0327437	9	nm1309286	writer	screenplay	\N
+tt0365847	10	nm0876602	producer	producer	\N
+tt0365847	1	nm0788405	actor	\N	"[""Nangong Yan""]"
+tt0365847	2	nm0000329	actor	\N	"[""Meng Yi"",""Jack""]"
+tt0365847	3	nm2274407	actor	\N	"[""General Shen""]"
+tt0365847	4	nm2848532	actor	\N	"[""Official""]"
+tt0365847	5	nm0867262	director	\N	\N
+tt0365847	6	nm0910924	writer	screenplay	\N
+tt0365847	7	nm1934885	writer	screenplay	\N
+tt0365847	8	nm0151162	producer	executive producer	\N
+tt0365847	9	nm0811607	producer	producer	\N
+tt0374633	1	nm1409854	self	\N	"[""Himself""]"
+tt0374633	2	nm0000329	actor	\N	\N
+tt0374633	3	nm0005033	self	\N	"[""Himself""]"
+tt0374633	4	nm1121703	actor	\N	"[""Film Reviewer""]"
+tt0374633	5	nm0751481	director	\N	\N
+tt0374633	6	nm0950707	actor	\N	\N
+tt0386005	10	nm0906414	composer	\N	\N
+tt0386005	1	nm0000329	actor	\N	"[""Senior Insp. Chan Kwok-Wing""]"
+tt0386005	2	nm0874866	actor	\N	"[""Zheng Xiaofeng"",""Frank Cheng Siu-fung""]"
+tt0386005	3	nm2378838	actor	\N	"[""Negotiator""]"
+tt0386005	4	nm1936402	actor	\N	"[""Robber""]"
+tt0386005	5	nm0150802	director	\N	\N
+tt0386005	6	nm0950701	writer	screenplay	\N
+tt0386005	7	nm0151162	producer	executive producer	\N
+tt0386005	8	nm0811607	producer	producer	\N
+tt0386005	9	nm0876602	producer	producer	\N
+tt0438877	1	nm0000329	actor	\N	"[""Narrator""]"
+tt0438877	2	nm1109494	director	\N	\N
+tt0438877	3	nm0127478	producer	producer	\N
+tt0438877	4	nm0588953	producer	producer	\N
+tt0438877	5	nm1204634	producer	producer	\N
+tt0438877	6	nm0006277	composer	\N	\N
+tt0438877	7	nm0961453	editor	\N	\N
+tt0485976	10	nm2497357	composer	\N	\N
+tt0485976	1	nm0000329	actor	\N	"[""Thongs""]"
+tt0485976	2	nm0401201	actor	\N	"[""Landlord""]"
+tt0485976	3	nm0465503	actor	\N	"[""Octopus""]"
+tt0485976	4	nm1218953	actress	\N	"[""Pak Yin""]"
+tt0485976	5	nm0150802	director	\N	\N
+tt0485976	6	nm0950701	writer	written by	\N
+tt0485976	7	nm0151162	producer	executive producer	\N
+tt0485976	8	nm0811607	producer	producer	\N
+tt0485976	9	nm0911117	producer	producer	\N
+tt0865556	10	nm0003703	editor	\N	\N
+tt0865556	1	nm0000329	actor	\N	"[""Lu Yan"",""Old Hop""]"
+tt0865556	2	nm0001472	actor	\N	"[""The Monkey King"",""The Silent Monk""]"
+tt0865556	3	nm0029400	actor	\N	"[""Jason Tripitikas""]"
+tt0865556	4	nm2973494	actress	\N	"[""Southie Girl""]"
+tt0865556	5	nm0591450	director	\N	\N
+tt0865556	6	nm0299301	writer	written by	\N
+tt0865556	7	nm0798661	producer	producer	\N
+tt0865556	8	nm1384267	composer	\N	\N
+tt0865556	9	nm0666702	cinematographer	director of photography	\N
+tt10044874	1	nm0000329	actor	\N	\N
+tt10044874	2	nm0943104	actor	\N	\N
+tt10044874	3	nm0497090	director	\N	\N
+tt10044874	4	nm1217899	producer	producer	\N
+tt1075419	10	nm0457491	cinematographer	\N	\N
+tt1075419	1	nm0000329	actor	\N	"[""Steelhead""]"
+tt1075419	2	nm0847562	actor	\N	"[""Inspector Kitano""]"
+tt1075419	3	nm0943079	actor	\N	"[""Jie""]"
+tt1075419	4	nm1292891	actress	\N	"[""Xiu Xiu"",""Yuko Eguchi""]"
+tt1075419	5	nm0232504	director	\N	\N
+tt1075419	6	nm0161159	writer	writer	\N
+tt1075419	7	nm0151162	producer	producer	\N
+tt1075419	8	nm0811607	producer	producer	\N
+tt1075419	9	nm0436348	composer	\N	\N
+tt1155076	10	nm0000226	producer	producer	\N
+tt1155076	1	nm0000329	actor	\N	"[""Mr. Han""]"
+tt1155076	2	nm1535523	actor	\N	"[""Dre Parker""]"
+tt1155076	3	nm0378245	actress	\N	"[""Sherry Parker""]"
+tt1155076	4	nm3924219	actress	\N	"[""Meiying""]"
+tt1155076	5	nm0958969	director	\N	\N
+tt1155076	6	nm0614050	writer	screenplay	\N
+tt1155076	7	nm0436543	writer	story	\N
+tt1155076	8	nm0489876	producer	producer	\N
+tt1155076	9	nm0000586	producer	producer	\N
+tt1273678	10	nm0628056	composer	\N	\N
+tt1273678	1	nm0000329	actor	\N	"[""Bob Ho""]"
+tt1273678	2	nm0005520	actress	\N	"[""Gillian""]"
+tt1273678	3	nm0004854	actor	\N	"[""Colton James""]"
+tt1273678	4	nm1630992	actress	\N	"[""Farren""]"
+tt1273678	5	nm0505152	director	\N	\N
+tt1273678	6	nm0077080	writer	screenplay	\N
+tt1273678	7	nm0007079	writer	screenplay	\N
+tt1273678	8	nm0201304	writer	screenplay	\N
+tt1273678	9	nm0800465	producer	producer	\N
+tt1302011	10	nm0167795	producer	producer	\N
+tt1302011	1	nm0085312	actor	\N	"[""Po""]"
+tt1302011	2	nm0001401	actress	\N	"[""Tigress""]"
+tt1302011	3	nm0000329	actor	\N	"[""Monkey""]"
+tt1302011	4	nm0000163	actor	\N	"[""Shifu""]"
+tt1302011	5	nm0950775	director	\N	\N
+tt1302011	6	nm0008743	writer	written by	\N
+tt1302011	7	nm0074184	writer	written by	\N
+tt1302011	8	nm0717550	writer	based on the characters created by	\N
+tt1302011	9	nm0903456	writer	based on the characters created by	\N
+tt1319718	1	nm0000329	actor	\N	"[""The Soldier""]"
+tt1319718	2	nm0910966	actor	\N	"[""the General""]"
+tt1319718	3	nm3398435	actor	\N	"[""Prince Wen""]"
+tt1319718	4	nm3391237	actress	\N	"[""Songster""]"
+tt1319718	5	nm0227625	director	\N	\N
+tt1319718	6	nm0811607	producer	producer	\N
+tt1319718	7	nm4933115	composer	\N	\N
+tt1319718	8	nm1618536	cinematographer	director of photography	\N
+tt1421749	1	nm0000329	actor	\N	\N
+tt1421749	2	nm0001472	actor	\N	\N
+tt1424310	10	nm0876602	producer	producer	\N
+tt1424310	1	nm0000329	actor	\N	"[""Asian Hawk""]"
+tt1424310	2	nm0795517	actress	\N	"[""David's Wife""]"
+tt1424310	3	nm4080670	actress	\N	"[""Coco""]"
+tt1424310	4	nm1085861	actor	\N	"[""Simon""]"
+tt1424310	5	nm0150894	writer	\N	\N
+tt1424310	6	nm0849282	writer	\N	\N
+tt1424310	7	nm0867262	writer	\N	\N
+tt1424310	8	nm1707265	producer	producer	\N
+tt1424310	9	nm0719096	producer	producer	\N
+tt1478291	10	nm3550491	producer	producer	\N
+tt1478291	1	nm2591248	actor	\N	"[""Zhang Yi-shan""]"
+tt1478291	2	nm0000329	actor	\N	"[""Jackie Chan""]"
+tt1478291	3	nm3236074	actress	\N	\N
+tt1478291	4	nm3138980	self	\N	"[""Herself""]"
+tt1478291	5	nm1979442	director	\N	\N
+tt1478291	6	nm1215055	director	\N	\N
+tt1478291	7	nm3544392	writer	screenplay	\N
+tt1478291	8	nm3550195	writer	screenplay	\N
+tt1478291	9	nm1295684	producer	producer	\N
+tt1615160	10	nm0525961	producer	producer	\N
+tt1615160	1	nm1648520	actress	\N	"[""Fan""]"
+tt1615160	2	nm0000329	actor	\N	"[""Quan Ngoc Minh""]"
+tt1615160	3	nm1257480	actor	\N	"[""Ian Wood""]"
+tt1615160	4	nm0849214	actor	\N	"[""Simpson""]"
+tt1615160	5	nm0132709	director	\N	\N
+tt1615160	6	nm0545861	writer	screenplay by	\N
+tt1615160	7	nm0495319	writer	"based on the novel ""The Chinaman"" by"	\N
+tt1615160	8	nm2222628	producer	producer	\N
+tt1615160	9	nm0475423	producer	producer	\N
+tt1720267	10	nm4061122	producer	producer	\N
+tt1720267	1	nm0000329	actor	\N	"[""Xu Rongcun""]"
+tt1720267	2	nm1868320	actress	\N	"[""Silk Boy""]"
+tt1720267	3	nm0149942	actor	\N	"[""Grandfather""]"
+tt1720267	4	nm0233036	actor	\N	"[""Ginsing King""]"
+tt1720267	5	nm4060968	director	\N	\N
+tt1720267	6	nm2318036	writer	\N	\N
+tt1720267	7	nm0263727	writer	\N	\N
+tt1720267	8	nm4062655	writer	story	\N
+tt1720267	9	nm1070766	producer	producer	\N
+tt1741202	1	nm0000329	actor	\N	\N
+tt1741202	2	nm0618680	director	\N	\N
+tt1741202	3	nm0138620	writer	screenplay	\N
+tt1741202	4	nm1953304	writer	\N	\N
+tt1741202	5	nm0514821	writer	screenplay	\N
+tt1741202	6	nm1951118	writer	\N	\N
+tt1741202	7	nm0225146	producer	producer	\N
+tt1741202	8	nm3450764	producer	producer	\N
+tt1741202	9	nm2028525	producer	producer	\N
+tt1772230	10	nm2900221	producer	producer	\N
+tt1772230	1	nm0000329	actor	\N	"[""Huang Xing""]"
+tt1772230	2	nm0152061	actor	\N	"[""Sun Yat-sen""]"
+tt1772230	3	nm0508356	actress	\N	"[""Xu Zonghan""]"
+tt1772230	4	nm0161158	actor	\N	"[""Yuan Shikai""]"
+tt1772230	5	nm0955377	director	\N	\N
+tt1772230	6	nm2639120	writer	screenplay	\N
+tt1772230	7	nm3616667	writer	screenplay	\N
+tt1772230	8	nm5262456	producer	producer	\N
+tt1772230	9	nm5262179	producer	producer	\N
+tt2238032	10	nm1290580	producer	producer	\N
+tt2238032	1	nm0000329	actor	\N	"[""Bennie Chan""]"
+tt2238032	2	nm0424216	actor	\N	"[""Connor Watts""]"
+tt2238032	3	nm1549063	actress	\N	"[""Samantha Bai""]"
+tt2238032	4	nm0874676	actor	\N	"[""Yung""]"
+tt2238032	5	nm0001317	director	\N	\N
+tt2238032	6	nm1062565	writer	story	\N
+tt2238032	7	nm2818863	writer	screenplay	\N
+tt2238032	8	nm2366522	writer	creator	\N
+tt2238032	9	nm5664649	producer	producer	\N
+tt2324606	1	nm0000329	actor	\N	"[""Lee""]"
+tt2324606	2	nm0000676	actor	\N	"[""James Carter""]"
+tt2324606	3	nm0482780	writer	characters	\N
+tt2324606	4	nm0765306	producer	producer	\N
+tt2599716	10	nm7416348	writer	story planner	\N
+tt2599716	1	nm0000329	actor	\N	"[""Zhong Wen""]"
+tt2599716	2	nm1091782	actor	\N	"[""Wu Jiang""]"
+tt2599716	3	nm1320897	actress	\N	"[""Miao Miao""]"
+tt2599716	4	nm5088245	actress	\N	"[""Lan Lan""]"
+tt2599716	5	nm0227625	director	\N	\N
+tt2599716	6	nm5908926	writer	script planner	\N
+tt2599716	7	nm5457848	writer	script planner	\N
+tt2599716	8	nm6472391	writer	story planner	\N
+tt2599716	9	nm6283683	writer	story planner	\N
+tt2935034	1	nm0000329	actor	\N	"[""Mr. Z""]"
+tt2935034	2	nm5323700	actress	\N	"[""European Woman""]"
+tt2935034	3	nm3653250	actor	\N	"[""Rob""]"
+tt2935034	4	nm4366662	director	\N	\N
+tt2990144	1	nm0000329	actor	\N	\N
+tt2990144	2	nm6590527	self	\N	"[""Himself""]"
+tt2990144	3	nm10575242	actress	\N	"[""Smoking Dragon""]"
+tt2992152	10	nm4377915	production_designer	\N	\N
+tt2992152	1	nm3419887	actress	\N	\N
+tt2992152	2	nm6051128	actor	\N	"[""Fake Nazi #1""]"
+tt2992152	3	nm3447142	actor	\N	\N
+tt2992152	4	nm0000329	actor	\N	\N
+tt2992152	5	nm0271815	director	\N	\N
+tt2992152	6	nm0911032	writer	\N	\N
+tt2992152	7	nm1010222	producer	producer	\N
+tt2992152	8	nm4376119	composer	\N	\N
+tt2992152	9	nm2283697	cinematographer	\N	\N
+tt3014284	10	nm2972864	writer	screenplay by	\N
+tt3014284	1	nm0000329	actor	\N	"[""Master Wu"",""Mr. Liu""]"
+tt3014284	2	nm2002649	actor	\N	"[""Lloyd""]"
+tt3014284	3	nm0035488	actor	\N	"[""Cole""]"
+tt3014284	4	nm3529685	actor	\N	"[""Jay""]"
+tt3014284	5	nm0063769	director	\N	\N
+tt3014284	6	nm0279729	director	\N	\N
+tt3014284	7	nm0517517	director	\N	\N
+tt3014284	8	nm0923980	writer	screenplay by	\N
+tt3014284	9	nm1117226	writer	screenplay by	\N
+tt3672840	1	nm0000329	actor	\N	"[""Huo An""]"
+tt3672840	2	nm0000131	actor	\N	"[""Lucius""]"
+tt3672840	3	nm0004778	actor	\N	"[""Tiberius""]"
+tt3672840	4	nm2184859	actor	\N	"[""Yin Po""]"
+tt3672840	5	nm0496752	director	\N	\N
+tt3672840	6	nm1682154	producer	producer	\N
+tt3672840	7	nm0481691	composer	\N	\N
+tt3672840	8	nm0156583	cinematographer	\N	\N
+tt3672840	9	nm0159087	production_designer	\N	\N
+tt4217392	10	nm0910996	composer	\N	\N
+tt4217392	1	nm0000329	actor	\N	"[""Jack""]"
+tt4217392	2	nm7344694	actor	\N	"[""Xiaoguang""]"
+tt4217392	3	nm7094216	actress	\N	"[""Nuomin""]"
+tt4217392	4	nm7796669	actress	\N	"[""Ashmita""]"
+tt4217392	5	nm0867262	director	\N	\N
+tt4217392	6	nm5260718	producer	producer	\N
+tt4217392	7	nm8732473	producer	producer	\N
+tt4217392	8	nm0876602	producer	producer	\N
+tt4217392	9	nm0917671	producer	producer	\N
+tt4685784	1	nm0000329	actor	\N	"[""Chon Wang""]"
+tt4685784	2	nm0005562	actor	\N	"[""Roy O'Bannon""]"
+tt4685784	3	nm0381478	director	\N	\N
+tt4685784	4	nm2296454	writer	screenplay	\N
+tt4685784	5	nm0332184	writer	characters	\N
+tt4685784	6	nm0587692	writer	characters	\N
+tt4685784	7	nm5045313	writer	written by	\N
+tt4685784	8	nm8417795	writer	screenplay	\N
+tt4687848	10	nm7443261	producer	producer	\N
+tt4687848	1	nm0000329	actor	\N	"[""Ma Yuan""]"
+tt4687848	2	nm1548493	actor	\N	"[""Rui Ge""]"
+tt4687848	3	nm7301909	actor	\N	"[""Dahai""]"
+tt4687848	4	nm3073218	actor	\N	"[""Fan Chuan""]"
+tt4687848	5	nm0227625	director	\N	\N
+tt4687848	6	nm2091311	writer	script advisor	\N
+tt4687848	7	nm8691513	writer	\N	\N
+tt4687848	8	nm7443264	producer	producer	\N
+tt4687848	9	nm1284187	producer	executive producer	\N
+tt5449328	10	nm0086840	actress	\N	"[""Wing Wu""]"
+tt5449328	1	nm0000329	actor	\N	"[""Master Monkey""]"
+tt5449328	2	nm0519680	actor	\N	"[""Po""]"
+tt5449328	3	nm0851317	actor	\N	"[""Master Shifu"",""Baboon Boss"",""Yak Goon #2""]"
+tt5449328	4	nm1683236	actress	\N	"[""Master Tigress"",""Wu Goon #2""]"
+tt5449328	5	nm0120180	actor	\N	"[""Rat Boss"",""Rabbit #3"",""Rhino #1""]"
+tt5449328	6	nm0935042	actor	\N	"[""Gorilla Minion #1"",""Yak Goon #1""]"
+tt5449328	7	nm0636046	actor	\N	"[""Baboon Goon #1"",""Gorilla Goon #1""]"
+tt5449328	8	nm0829181	actress	\N	"[""Wan Wu"",""Rabbit #2"",""Wu Minion #2""]"
+tt5449328	9	nm0201373	actress	\N	"[""Su Wu"",""Wu Minion #1""]"
+tt5813366	10	nm4318551	composer	\N	\N
+tt5813366	1	nm0000329	actor	\N	"[""Lin Dong""]"
+tt5813366	2	nm3881333	actor	\N	"[""Leeson""]"
+tt5813366	3	nm7134395	actress	\N	"[""Nancy""]"
+tt5813366	4	nm9276991	actress	\N	"[""Susan""]"
+tt5813366	5	nm1937443	director	\N	\N
+tt5813366	6	nm3968338	writer	screenplay by	\N
+tt5813366	7	nm0192984	producer	producer	\N
+tt5813366	8	nm1698429	producer	producer	\N
+tt5813366	9	nm9249407	producer	producer	\N
+tt6176078	10	nm9204085	writer	based on: LEGO Construction Toys	\N
+tt6176078	1	nm0857620	actor	\N	"[""Narrator""]"
+tt6176078	2	nm3434305	actress	\N	"[""Chicken""]"
+tt6176078	3	nm0000329	actor	\N	"[""Sensei Wu""]"
+tt6176078	4	nm8620722	director	\N	\N
+tt6176078	5	nm8588931	writer	screenplay by	\N
+tt6176078	6	nm0949124	writer	story by	\N
+tt6176078	7	nm7705410	writer	story by	\N
+tt6176078	8	nm9204083	writer	based on: LEGO Construction Toys	\N
+tt6176078	9	nm9204084	writer	based on: LEGO Construction Toys	\N
+tt6218010	10	nm6179961	composer	\N	\N
+tt6218010	1	nm0002076	actor	\N	"[""Jonathan Green""]"
+tt6218010	2	nm4080670	actress	\N	"[""Chen""]"
+tt6218010	3	nm1651354	actress	\N	"[""Miss Dudley""]"
+tt6218010	4	nm0000329	actor	\N	"[""Master""]"
+tt6218010	5	nm1897071	director	\N	\N
+tt6218010	6	nm1923871	writer	\N	\N
+tt6218010	7	nm3703488	producer	producer	\N
+tt6218010	8	nm6085160	producer	producer	\N
+tt6218010	9	nm0783652	producer	producer	\N
+tt6238896	10	nm4111443	editor	\N	\N
+tt6238896	1	nm0000602	actor	\N	"[""Narrator""]"
+tt6238896	2	nm0000329	actor	\N	"[""Narrator""]"
+tt6238896	3	nm0197773	director	\N	\N
+tt6238896	4	nm2887720	director	\N	\N
+tt6238896	5	nm0916424	director	\N	\N
+tt6238896	6	nm0101639	writer	narration written by	\N
+tt6238896	7	nm0945802	writer	narration written by	\N
+tt6238896	8	nm2829518	producer	producer	\N
+tt6238896	9	nm0373588	composer	\N	\N
+tt6419292	1	nm0000329	actor	\N	"[""Zell""]"
+tt6419292	2	nm1999991	writer	writer	\N
+tt6419292	3	nm1974626	writer	writer	\N
+tt6419292	4	nm1882491	producer	producer	\N
+tt6419292	5	nm3893921	producer	producer	\N
+tt6419292	6	nm0907742	producer	producer	\N
+tt6879446	10	nm8732475	producer	producer	\N
+tt6879446	1	nm0000329	actor	\N	"[""Luo Feng""]"
+tt6879446	2	nm1078479	actor	\N	"[""Chris Van Horne""]"
+tt6879446	3	nm1561982	actor	\N	"[""Owen Paddock""]"
+tt6879446	4	nm5962871	actor	\N	"[""Henry Van Horne""]"
+tt6879446	5	nm0915304	director	\N	\N
+tt6879446	6	nm3885069	writer	\N	\N
+tt6879446	7	nm0134396	producer	producer	\N
+tt6879446	8	nm5260718	producer	producer	\N
+tt6879446	9	nm0719096	producer	producer	\N
+tt7587984	10	nm0158883	cinematographer	\N	\N
+tt7587984	1	nm0000329	actor	\N	"[""Pu Songling""]"
+tt7587984	2	nm8694048	actress	\N	"[""Nie Xiaoqian""]"
+tt7587984	3	nm2432722	actor	\N	"[""Ning Cai Cheng""]"
+tt7587984	4	nm3391237	actress	\N	\N
+tt7587984	5	nm5253967	director	\N	\N
+tt7587984	6	nm9390775	writer	\N	\N
+tt7587984	7	nm1615913	producer	producer	\N
+tt7587984	8	nm9156873	composer	\N	\N
+tt7587984	9	nm7870268	composer	\N	\N
+tt7645502	10	nm1622192	producer	producer	\N
+tt7645502	1	nm0000329	actor	\N	"[""Namiya""]"
+tt7645502	2	nm8151982	actress	\N	\N
+tt7645502	3	nm7622097	actress	\N	"[""Tong Tong""]"
+tt7645502	4	nm6039993	actor	\N	\N
+tt7645502	5	nm2199286	director	\N	\N
+tt7645502	6	nm0383258	writer	novel 'Miracles of the Namiya General Store'	\N
+tt7645502	7	nm9595587	writer	\N	\N
+tt7645502	8	nm9595586	writer	\N	\N
+tt7645502	9	nm9595585	writer	\N	\N
+tt8026848	1	nm0000329	actor	\N	"[""Kung Fu instructor""]"
+tt8026848	2	nm1019493	director	\N	\N
+tt8026848	3	nm8706022	writer	\N	\N
+tt8026848	4	nm9639530	producer	producer	\N
+tt8026848	5	nm8706023	composer	\N	\N
+tt8026848	6	nm3318496	cinematographer	\N	\N
+tt8026848	7	nm9029253	editor	\N	\N
+tt8026848	8	nm5439765	production_designer	\N	\N
+tt8312212	1	nm0000329	actor	\N	"[""Master Wu""]"
+tt8312212	2	nm2002649	actor	\N	"[""Lloyd""]"
+tt8312212	3	nm3529685	actor	\N	"[""Jay""]"
+tt8312212	4	nm0857620	actor	\N	"[""Lord Garmadon""]"
+tt8312212	5	nm1189025	director	\N	\N
+tt8312212	6	nm2046855	actor	\N	"[""Zane""]"
+tt8702944	1	nm0000329	actor	\N	\N
+tt8702944	2	nm0874866	actor	\N	\N
+tt8702944	3	nm0874676	actor	\N	\N
+tt8702944	4	nm1250939	actor	\N	\N
+tt8702944	5	nm1548493	director	\N	\N
+tt8702944	6	nm1937443	writer	\N	\N
+tt8702944	7	nm3419723	actress	\N	\N
+tt9695722	10	nm6661769	actor	\N	"[""Kalasu""]"
+tt9695722	1	nm0000329	actor	\N	"[""Tang Huating""]"
+tt9695722	2	nm3138511	actor	\N	"[""Lei Zhenyu""]"
+tt9695722	3	nm7094216	actress	\N	"[""Mi Ya""]"
+tt9695722	4	nm8054476	actor	\N	"[""Zhang Kaixuan""]"
+tt9695722	5	nm0867262	director	\N	\N
+tt9695722	6	nm8575929	writer	english dialogue	\N
+tt9695722	7	nm10483676	actor	\N	"[""Shendiao""]"
+tt9695722	8	nm5647594	actor	\N	"[""Omar""]"
+tt9695722	9	nm0046223	actor	\N	"[""Abati""]"
+tt9719082	1	nm0004943	actor	\N	\N
+tt9719082	2	nm1683787	actress	\N	\N
+tt9719082	3	nm0000329	actor	\N	\N
+tt9719082	4	nm0994538	director	\N	\N
+tt9719082	5	nm1144952	composer	\N	\N
+tt9719082	6	nm1390445	composer	\N	\N

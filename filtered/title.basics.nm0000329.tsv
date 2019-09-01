@@ -1,0 +1,102 @@
+tconst	titleType	primaryTitle	originalTitle	isAdult	startYear	endYear	runtimeMinutes	genres
+tt0068000	movie	Snake Fist Fighter	Diao shou guai zhao	0	1973	\N	80	Action,Comedy,Drama
+tt0070017	movie	Ding tian li di	Ding tian li di	0	1973	\N	87	Action,Drama,War
+tt0070049	movie	Bei di yan zhi	Bei di yan zhi	0	1973	\N	94	Drama,Romance
+tt0073694	movie	Shao Lin men	Shao Lin men	0	1976	\N	95	Action,Drama
+tt0074747	movie	The Killer Meteors	Fung yu seung lau sing	0	1976	\N	104	Action,Thriller
+tt0075201	movie	Shaolin Wooden Men	Shao Lin mu ren xiang	0	1976	\N	106	Action
+tt0075439	movie	New Fist of Fury	Xin jing wu men	0	1976	\N	114	Action,Drama
+tt0076227	movie	To Kill with Intrigue	Jian hua yan yu jiang nan	0	1977	\N	106	Action,Drama
+tt0077277	movie	Bruce and Shao-lin Kung Fu 2	Huo shao shao lin men	0	1978	\N	76	Action,Adventure
+tt0077541	movie	Magnificent Bodyguards	Fei du juan yun shan	0	1978	\N	101	Action
+tt0078128	movie	Spiritual Kung Fu	Quan jing	0	1978	\N	99	Action,Comedy,Fantasy
+tt0078251	movie	She he ba bu	She he ba bu	0	1978	\N	96	Action,Drama
+tt0078252	movie	Snake in the Eagle's Shadow	Se ying diu sau	0	1978	\N	97	Action,Comedy
+tt0079315	movie	The Fearless Hyena	Xiao quan guai zhao	0	1979	\N	98	Action,Comedy
+tt0079484	movie	Dragon Fist	Long quan	0	1979	\N	97	Action,Drama
+tt0079509	movie	Fantasy Mission Force	Mi ni te gong dui	0	1983	\N	90	Action,Adventure,Comedy
+tt0080179	movie	Drunken Master	Zui quan	0	1978	\N	111	Action,Comedy
+tt0080436	movie	Battle Creek Brawl	Battle Creek Brawl	0	1980	\N	95	Action,Comedy,Crime
+tt0080623	movie	Half a Loaf of Kung Fu	Yi zhao ban shi chuang jiang hu	0	1978	\N	97	Action,Comedy
+tt0081499	movie	The Young Master	Shi di chu ma	0	1980	\N	105	Action,Adventure,Comedy
+tt0084266	movie	Dragon Lord	Lung siu yeh	0	1982	\N	102	Action,Comedy,Sport
+tt0085127	movie	Project A	'A' gai wak	0	1983	\N	105	Action,Comedy
+tt0085864	movie	Fearless Hyena 2	Long teng hu yue	0	1983	\N	92	Action
+tt0086605	movie	Winners & Sinners	Qi mou miao ji: Wu fu xing	0	1983	\N	108	Action,Comedy,Crime
+tt0087578	movie	Wheels on Meals	Kuai can che	0	1984	\N	108	Action,Comedy,Crime
+tt0089374	movie	Police Story	Ging chaat goo si	0	1985	\N	100	Action,Comedy,Crime
+tt0089847	movie	The Protector	The Protector	0	1985	\N	91	Action,Crime,Thriller
+tt0091427	movie	Heart of Dragon	Long de xin	0	1985	\N	98	Action,Comedy,Crime
+tt0091431	movie	Armour of God	Lung hing foo dai	0	1986	\N	88	Action,Adventure,Comedy
+tt0092501	movie	Project A 2	'A' gai wak 2	0	1987	\N	101	Action,Comedy,Crime
+tt0093015	movie	Dragons Forever	Fei lung mang jeung	0	1988	\N	93	Action,Comedy,Romance
+tt0095403	movie	Police Story 2	Ging chaat goo si juk jaap	0	1988	\N	101	Action,Comedy,Crime
+tt0098019	movie	Mr. Canton and Lady Rose	Qi ji	0	1989	\N	139	Action,Comedy,Crime
+tt0099558	movie	Armour of God 2: Operation Condor	Fei ying gai wak	0	1991	\N	106	Action,Adventure,Comedy
+tt0099812	movie	Island of Fire	Huo shao dao	0	1990	\N	125	Action,Crime,Drama
+tt0103950	movie	City Hunter	Sing si lip yan	0	1993	\N	105	Action,Comedy,Crime
+tt0104558	movie	Police Story 3: Super Cop	Ging chaat goo si III: Chiu kup ging chaat	0	1992	\N	96	Action,Comedy,Crime
+tt0105399	movie	The Twin Dragons	Seong lung wui	0	1992	\N	104	Action,Comedy
+tt0108656	movie	Crime Story	Jung on zo	0	1993	\N	107	Action,Crime,Drama
+tt0111512	movie	Drunken Master II	Jui kuen II	0	1994	\N	102	Action,Comedy
+tt0113326	movie	Rumble in the Bronx	Hung fan kui	0	1995	\N	104	Action,Comedy,Crime
+tt0114126	movie	Thunderbolt	Pik lik foh	0	1995	\N	110	Action,Crime,Thriller
+tt0116704	movie	Police Story 4: First Strike	Ging chaat goo si 4: Gaan dan yam mo	0	1996	\N	107	Action,Adventure,Comedy
+tt0117786	movie	Mr. Nice Guy	Yat goh ho yan	0	1997	\N	88	Action,Comedy,Crime
+tt0120812	movie	Rush Hour	Rush Hour	0	1998	\N	98	Action,Comedy,Crime
+tt0124891	movie	The Story of Ching Hsian-Lien	Qin Xiang Lian	0	1963	\N	124	Drama,Musical
+tt0127357	movie	Who Am I?	Ngo si seoi	0	1998	\N	120	Action,Adventure,Comedy
+tt0184526	movie	Gorgeous	Boh lei chun	0	1999	\N	121	Action,Comedy,Romance
+tt0184894	movie	Shanghai Noon	Shanghai Noon	0	2000	\N	110	Action,Adventure,Comedy
+tt0185591	movie	Pai an jing ji	Pai an jing ji	0	1975	\N	90	Drama
+tt0266915	movie	Rush Hour 2	Rush Hour 2	0	2001	\N	90	Action,Comedy,Crime
+tt0271946	movie	The Accidental Spy	Dak mo mai sing	0	2001	\N	108	Action,Comedy,Crime
+tt0288045	movie	The Medallion	The Medallion	0	2003	\N	88	Action,Comedy,Fantasy
+tt0290095	movie	The Tuxedo	The Tuxedo	0	2002	\N	98	Action,Comedy,Sci-Fi
+tt0293564	movie	Rush Hour 3	Rush Hour 3	0	2007	\N	91	Action,Comedy,Crime
+tt0300471	movie	Shanghai Knights	Shanghai Knights	0	2003	\N	114	Action,Adventure,Comedy
+tt0327437	movie	Around the World in 80 Days	Around the World in 80 Days	0	2004	\N	120	Action,Adventure,Comedy
+tt0365847	movie	The Myth	San wa	0	2005	\N	122	Action,Adventure,Comedy
+tt0374633	video	Eastern Heroes: The Video Magazine	Eastern Heroes: The Video Magazine	0	1995	\N	\N	Action,Documentary
+tt0386005	movie	New Police Story	San ging chaat goo si	0	2004	\N	123	Action,Crime,Drama
+tt0438877	video	Jackie Chan's Hong Kong Tour	Jackie Chan's Hong Kong Tour	0	2001	\N	2	Documentary,Short
+tt0485976	movie	Rob-B-Hood	Bo bui gai wak	0	2006	\N	136	Action,Comedy,Crime
+tt0865556	movie	The Forbidden Kingdom	The Forbidden Kingdom	0	2008	\N	104	Action,Adventure,Fantasy
+tt10044874	movie	Climbers	Climbers	0	\N	\N	\N	\N
+tt1075419	movie	Shinjuku Incident	San Suk si gin	0	2009	\N	119	Action,Crime,Drama
+tt1155076	movie	The Karate Kid	The Karate Kid	0	2010	\N	140	Action,Drama,Family
+tt1273678	movie	The Spy Next Door	The Spy Next Door	0	2010	\N	94	Action,Comedy,Family
+tt1302011	movie	Kung Fu Panda 2	Kung Fu Panda 2	0	2011	\N	90	Action,Adventure,Animation
+tt1319718	movie	Little Big Soldier	Da bing xiao jiang	0	2010	\N	96	Action,Adventure,Comedy
+tt1421749	tvEpisode	Forbidden Kingdom	Forbidden Kingdom	0	2009	\N	\N	Documentary
+tt1424310	movie	Chinese Zodiac	Sap ji sang ciu	0	2012	\N	109	Action,Adventure,Comedy
+tt1478291	movie	Looking for Jackie	Xun zhao Cheng Long	0	2009	\N	85	Action,Comedy,Family
+tt1615160	movie	The Foreigner	The Foreigner	0	2017	\N	113	Action,Thriller
+tt1720267	movie	The Legend of Silk Boy	The Legend of Silk Boy	0	2010	\N	90	Adventure,Animation,Family
+tt1741202	movie	Five Against a Bullet	Five Against a Bullet	0	\N	\N	\N	Action,Thriller
+tt1772230	movie	1911	Xin hai ge ming	0	2011	\N	121	Action,Adventure,Drama
+tt2238032	movie	Skiptrace	Jue di tao wang	0	2016	\N	107	Action,Adventure,Comedy
+tt2324606	movie	Rush Hour 4	Rush Hour 4	0	\N	\N	\N	Action,Comedy,Crime
+tt2599716	movie	Police Story: Lockdown	Jing cha gu shi 2013	0	2013	\N	110	Action,Crime,Drama
+tt2935034	short	The Unbelievable	The Unbelievable	0	2013	\N	6	Action,Short
+tt2990144	movie	Wolf Flag	Wolf Flag	0	\N	\N	\N	Action
+tt2992152	movie	Personal Tailor	Si ren ding zhi	0	2013	\N	118	Comedy,Drama
+tt3014284	movie	The Lego Ninjago Movie	The Lego Ninjago Movie	0	2017	\N	101	Action,Adventure,Animation
+tt3672840	movie	Dragon Blade	Tian jiang xiong shi	0	2015	\N	127	Action,Adventure,Drama
+tt4217392	movie	Kung Fu Yoga	Gong fu yu jia	0	2017	\N	107	Action,Adventure,Comedy
+tt4685784	movie	Shanghai Dawn	Shanghai Dawn	0	\N	\N	\N	Action,Comedy
+tt4687848	movie	Railroad Tigers	Tie dao fei hu	0	2016	\N	124	Action,Comedy,War
+tt5449328	videoGame	Kung Fu Panda: Legendary Warriors	Kung Fu Panda: Legendary Warriors	0	2008	\N	\N	Adventure
+tt5813366	movie	Bleeding Steel	Ji qi zhi xue	0	2017	\N	109	Action,Sci-Fi,Thriller
+tt6176078	short	The Master	The Master: A Lego Ninjago Short	0	2016	\N	5	Action,Animation,Comedy
+tt6218010	movie	Journey to China: The Mystery of Iron Mask	Viy 2	0	2019	\N	124	Adventure,Fantasy
+tt6238896	movie	Earth: One Amazing Day	Earth: One Amazing Day	0	2017	\N	95	Documentary,Family
+tt6419292	movie	Once Upon a Zodiac	Once Upon a Zodiac	0	\N	\N	\N	Animation
+tt6879446	movie	Project X-Traction	Project X-Traction	0	2020	\N	\N	Action,Adventure,Thriller
+tt7587984	movie	The Knight of Shadows: Between Yin and Yang	Shen tan Pu Song Ling	0	2019	\N	109	Action,Fantasy,Romance
+tt7645502	movie	Namiya	Jie you za huo dian	0	2017	\N	116	Drama,Fantasy
+tt8026848	video	WildAid: Jackie Chan & Pangolins	WildAid: Jackie Chan & Pangolins	0	2017	\N	1	Action
+tt8312212	tvEpisode	LEGO Ninjago World Premiere Red Carpet Interviews	LEGO Ninjago World Premiere Red Carpet Interviews	0	2017	\N	\N	Family
+tt8702944	movie	Beijing: Wan Jiu Zhao Wu	Beijing: Wan Jiu Zhao Wu	0	\N	\N	\N	Drama
+tt9695722	movie	Vanguard	Vanguard	0	2020	\N	\N	Action
+tt9719082	video	Warren G feat. Adina Howard: What's Love Got to Do with It	Warren G feat. Adina Howard: What's Love Got to Do with It	0	1996	\N	4	Music,Short
